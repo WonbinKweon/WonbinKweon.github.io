@@ -31,9 +31,10 @@ Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/facult
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
 Ranked 1st in Department\\
-<!-- Exchange Student at TU Munich (Germany, 2018) and K-Arts (South Korea, 2017) -->
-Exchange Student at TU Munich (Germany, 2018.03-09), K-Arts (South Korea, 2017.01-02)\\
-Exchange Student at TU Munich (Germany, Mar-Sept 2018), K-Arts (South Korea, Dec-Feb 2017)
+Exchange Student at TU Munich (Germany, 2018) and K-Arts (South Korea, 2017) \\
+Exchange Student at TU Munich (2018.03- 2018.09), K-Arts (2016.12 - 2017.02)\\
+Exchange: TU Munich (Germany, 2018.03- 2018.09), K-Arts (South Korea, 2016.12 - 2017.02)\\
+TU Munich (Germany, 2018.03- 2018.09), K-Arts (South Korea, 2016.12 - 2017.02)
 - **GyeongNam Science High School**, South Korea\\
 Early Graduation, 2013.03 - 2015.02
 
