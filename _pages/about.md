@@ -21,29 +21,29 @@ Position
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Postdoctoral Researcher, 2024.02 - Present \\
 Institute of Artificial Intelligence \\
-Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0)
+Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"}
 
 Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Ph.D. in Convergence IT Engineering, 2019.02 - 2024.02\\
+Ph.D. in Dept. of Convergence IT Engineering, 2019.02 - 2024.02\\
 Dissertation: Confidence Calibration for Recommender Systems and Its Applications\\
-Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0)
+Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"}
 - **Technical University of Munich (TU Munich)**, Germany\\
 School of Management, 2018.03 - 2018.09\\
 Exchange Student
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
+B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
 Ranked 1st in Department
 - **GyeongNam Science High School**, South Korea\\
-Early Graudation, 2013.03 - 2015.02\\
+Early Graduation, 2013.03 - 2015.02
 
-Publication
+Publications
 -----
 **[Conferences]**
 
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
-**Wonbin Kweon**, Hwanjo Yu\\
+<u>Wonbin Kweon</u>, Hwanjo Yu\\
 **WWW 2024** (ACM The Web Conference)
 
 - **Top-Personalized-K Recommendation**\\
@@ -61,7 +61,7 @@ SeongKu Kang, Dongha Lee, **Wonbin Kweon**, Junyoung Hwang, Hwanjo Yu\\
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 **Wonbin Kweon**, SeongKu Kang, Hwanjo Yu\\
 **AAAI 2022** (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
-<span style="color:darkred">**Oral presentation, acceptance rate: 3%**</span>
+<span style="color:crimson">**Oral presentation, acceptance rate: 3%**</span>
 
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, **Wonbin Kweon**, Hwanjo Yu\\
