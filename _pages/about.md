@@ -85,3 +85,44 @@ Knowledge-Based Systems (2022.03)
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 Information Sciences (2021.11)
+
+Academic Services
+-----
+**[Conference Program Committee / Reviewer]**
+- WWW (ACM The Web Conference): 2024
+- KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining): 2023-2024
+- NeurIPS (Annual Conference on Neural Information Processing Systems): 2023
+- ICML (International Conference on Machine Learning): 2024
+- AAAI (Annual AAAI Conference on Artificial Intelligence): 2023-2024
+- ICLR (International Conference on Learning Representations): 2024
+- SDM (SIAM International Conference on Data Mining): 2024
+
+Honors & Awards
+-----
+- Fourth Prize, The 3rd POSTECH Research Award, 2023
+- AAAI Student Scholarship, 2022
+- Third Prize, Kakao Music Playlist Recommendation Competition, 2020
+- Kwanjeong Educational Foundation Scholarship, 2017 – 2019
+- Woori Bank Exchange Student Scholarship, 2018
+- POSTECH Admission Scholarship, 2015
+- Hanseong Sonjaehan Foundation Scholarship, 2014
+
+Talks & Presentations
+-----
+- **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
+AAAI (Virtual, Vancouver), oral presentation, 2022.02\\
+UberAI (Virtual, San Francisco), invited by Joseph Wang, 2022.05\\
+Naver-POSTECH AI Day (Pohang, South Korea), 2022.06
+- **Bidirectional Distillation for Top-K Recommender System**\\
+WWW (Virtual, Ljubljana), oral presentation, 2021.04
+- **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
+WWW (Virtual, Taipei), oral presentation, 2020.04
+
+Teachings
+-----
+- Predictive Analytics Modelling (DS30), TA, Hyundai Motors, 2023
+- Understanding and Implementation of Artificial Intelligence (DS20), TA, Hyundai Motors, 2022
+- Artificial Intelligence, TA, SK Hynix, 2020
+- Artificial Intelligence, TA, SK Innovation, 2020
+- Data Analytics (CSED226), TA, POSTECH, 2020
+- Industrial Technology Trend of AI (CSED703H), TA, POSTECH, 2019
