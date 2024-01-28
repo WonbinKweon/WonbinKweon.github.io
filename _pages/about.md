@@ -40,7 +40,7 @@ Publications
 **[Conferences]**
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <u>Wonbin Kweon</u>, Hwanjo Yu\\
-<span style="color:DarkGray">**WWW 2024**</span> (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)
 
 - **Top-Personalized-K Recommendation**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
@@ -48,7 +48,7 @@ Publications
 
 - **Distillation from Heterogeneous Models for Top-K Recommendation**\\
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
-<span style="color:SlateGray">**WWW 2023**</span> (ACM The Web Conference)
+<span style="color:steelblue">**WWW 2023**</span> (ACM The Web Conference)
 
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
