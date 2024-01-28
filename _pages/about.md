@@ -44,24 +44,24 @@ Publications
 
 - **Top-Personalized-K Recommendation**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
-<span style="color:Gray">**WWW 2024**</span> (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)
 
 - **Distillation from Heterogeneous Models for Top-K Recommendation**\\
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
-<span style="color:steelblue">**WWW 2023**</span> (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2023**</span> (ACM The Web Conference)
 
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
-<span style="color:LightSlateGray">**WWW 2022**</span> (ACM The Web Conference)
+<span style="color:Gray">**WWW 2022**</span> (ACM The Web Conference)
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
-**AAAI 2022** (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
+<span style="color:Gray">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
 <span style="color:crimson">**Oral presentation, acceptance rate: 3%**</span>
 
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-**KDD 2021** (ACM SIGKDD Conference on Knowledge Discovery & Data Mining)
+<span style="color:Gray">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery & Data Mining)
 
 - **Bidirectional Distillation for Top-K Recommender System**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
