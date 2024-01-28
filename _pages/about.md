@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+ABout Me
+-----
 I am wonbin
 
 Research Interest
