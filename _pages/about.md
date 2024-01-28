@@ -58,7 +58,7 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
 <span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
-<span style="color:crimson">**Oral presentation, acceptance rate: 3%**</span>
+<span style="color:firebrick">**Oral presentation, acceptance rate: 3%**</span>
 
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
