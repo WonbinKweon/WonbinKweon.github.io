@@ -86,9 +86,9 @@ author:
   location         : "Pohang, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=u-zOiMUAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "(https://scholar.google.com/citations?user=u-zOiMUAAAAJ&hl=en){:target="_blank"}"
+  email            : "wonbin.kweon@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/WonbinKweon"
+  github           : "WonbinKweon"
   google_plus      :
   keybase          :
   instagram        :
