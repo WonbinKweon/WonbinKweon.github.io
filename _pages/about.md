@@ -90,10 +90,10 @@ Academic Services
 -----
 **[Conference Program Committee / Reviewer]**
 - WWW (ACM The Web Conference): 2024
-- KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining): 2023-2024
+- KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining): 2023 - 2024
 - NeurIPS (Annual Conference on Neural Information Processing Systems): 2023
 - ICML (International Conference on Machine Learning): 2024
-- AAAI (Annual AAAI Conference on Artificial Intelligence): 2023-2024
+- AAAI (Annual AAAI Conference on Artificial Intelligence): 2023 - 2024
 - ICLR (International Conference on Learning Representations): 2024
 - SDM (SIAM International Conference on Data Mining): 2024
 
