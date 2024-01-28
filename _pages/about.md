@@ -52,28 +52,28 @@ SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu
 
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
-<span style="color:Gray">**WWW 2022**</span> (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2022**</span> (ACM The Web Conference)
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
-<span style="color:Gray">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
+<span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
 <span style="color:crimson">**Oral presentation, acceptance rate: 3%**</span>
 
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-<span style="color:Gray">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery & Data Mining)
+<span style="color:midnightblue">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery & Data Mining)
 
 - **Bidirectional Distillation for Top-K Recommender System**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
-**WWW 2021** (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2021**</span> (ACM The Web Conference)
 
 - **DE-RRD: A Knowledge Distillation Framework for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-**CIKM 2020** (ACM International Conference on Information and Knowledge Management)
+<span style="color:midnightblue">**CIKM 2020**</span> (ACM International Conference on Information and Knowledge Management)
 
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
-**WWW 2020** (ACM The Web Conference), short paper
+<span style="color:midnightblue">**WWW 2020**</span> (ACM The Web Conference), short paper
 
 **[Journals]**
 - **Personalized Distillation for Recommender System**\\
