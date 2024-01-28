@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
-<!-- I received my Ph.D. degree at Pohang University of Science and Technology \\
-(POSTECH), where I was advised by Prof. Hwanjo Yu. \\ -->
-I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.\\
+<!-- I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.\\ -->
+I received my Ph.D. degree from [Data Intelligence Lab](https://sites.google.com/view/postechdi){:target="_blank"} at POSTECH,\\
+under the supervision of Prof. Hwanjo Yu.\\
 My research interests include **machine learning for real-world applications**\\
 (e.g., knowledge distillation, recommender systems) and **trustworthy AI**\\
 (e.g., confidence calibration, unbiased learning).
