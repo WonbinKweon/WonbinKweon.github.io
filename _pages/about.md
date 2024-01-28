@@ -122,5 +122,5 @@ Teachings
 - Understanding and Implementation of Artificial Intelligence (DS20), TA, Hyundai Motors, 2022
 - Artificial Intelligence, TA, SK Hynix, 2020
 - Artificial Intelligence, TA, SK Innovation, 2020
-- Data Analytics (CSED226), TA, POSTECH, 2020
-- Industrial Technology Trend of AI (CSED703H), TA, POSTECH, 2019
+- Introduction to Data Analysis (CSED226), TA, POSTECH, 2020
+- Trends on Industrial AI (CSED703H), TA, POSTECH, 2019
