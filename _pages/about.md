@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence. I received \\
-my Ph.D. degree at Pohang University of Science and Technology (POSTECH), where I\\
-was advised by Prof. Hwanjo Yu. My research interests include machine learning for\\
-real-world applications (e.g., knowledge distillation, recommender systems) and\\
-trustworthy AI (e.g., confidence calibration, unbiased learning).
+I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
+I received my Ph.D. degree at Pohang University of Science and Technology \\
+(POSTECH), where I was advised by Prof. Hwanjo Yu. \\
+My research interests include **machine learning for real-world applications**\\
+(e.g., knowledge distillation, recommender systems) and **trustworthy AI**\\
+(e.g., confidence calibration, unbiased learning).
 
 Position
 ------
@@ -26,12 +27,13 @@ Education
 Ph.D. in Dept. of Convergence IT Engineering, 2019.02 - 2024.02\\
 Dissertation: Confidence Calibration for Recommender Systems and Its Applications\\
 Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"}
-- **Technical University of Munich (TU Munich)**, Germany\\
+<!-- - **Technical University of Munich (TU Munich)**, Germany\\
 School of Management, 2018.03 - 2018.09\\
-Exchange Student
+Exchange Student -->
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
-Ranked 1st in Department
+Ranked 1st in Department\\
+Exchange Student at TU Munich (Germany, 2018) and K-Arts (Korea, 2017)
 - **GyeongNam Science High School**, South Korea\\
 Early Graduation, 2013.03 - 2015.02
 
