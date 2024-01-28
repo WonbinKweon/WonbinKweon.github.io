@@ -48,11 +48,11 @@ Publications
 
 - **Distillation from Heterogeneous Models for Top-K Recommendation**\\
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
-<span style="color:LightGray">**WWW 2023**</span> (ACM The Web Conference)
+<span style="color:SlateGray">**WWW 2023**</span> (ACM The Web Conference)
 
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
-**WWW 2022** (ACM The Web Conference)
+<span style="color:LightSlateGray">**WWW 2022**</span> (ACM The Web Conference)
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
