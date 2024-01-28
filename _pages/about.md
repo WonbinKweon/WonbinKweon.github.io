@@ -10,8 +10,8 @@ redirect_from:
 I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence. I received \\
 my Ph.D. degree at Pohang University of Science and Technology (POSTECH), where I\\
 was advised by Prof. Hwanjo Yu. My research interests include machine learning for\\
-real-world systems (e.g., knowledge distillation, recommender systems) and trustworthy AI\\
-(e.g., confidence calibration, unbiased learning).
+real-world applications (e.g., knowledge distillation, recommender systems) and\\
+trustworthy AI (e.g., confidence calibration, unbiased learning).
 
 Position
 ------
@@ -40,15 +40,15 @@ Publications
 **[Conferences]**
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <u>Wonbin Kweon</u>, Hwanjo Yu\\
-**WWW 2024** (ACM The Web Conference)
+<span style="color:DarkGray">**WWW 2024**</span> (ACM The Web Conference)
 
 - **Top-Personalized-K Recommendation**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
-**WWW 2024** (ACM The Web Conference)
+<span style="color:Gray">**WWW 2024**</span> (ACM The Web Conference)
 
 - **Distillation from Heterogeneous Models for Top-K Recommendation**\\
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
-**WWW 2023** (ACM The Web Conference)
+<span style="color:LightGray">**WWW 2023**</span> (ACM The Web Conference)
 
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
