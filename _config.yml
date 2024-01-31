@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wonbin Kweon"
   avatar           : "alaska.jpg"
-  bio              : "Postdoctoral Researcher at POSTECH Institute of AI"
+  bio              : #"Postdoctoral Researcher at POSTECH Institute of AI"
   location         : "Pohang, South Korea"
   employer         :
   pubmed           : 
