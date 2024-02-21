@@ -7,18 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\ -->
+I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
 I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.\\
 My research interests include **machine learning for real-world applications**\\
 (e.g., knowledge distillation, recommender systems) and **trustworthy AI**\\
 (e.g., confidence calibration, unbiased estimator).
 
-<!-- Position
+Position
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Postdoctoral Researcher, 2024.02 - Present \\
+Postdoctoral Researcher, 2024.03 - Present \\
 Institute of Artificial Intelligence \\
-Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"} -->
+Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"}
 
 Education
 ------
@@ -74,6 +74,10 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2020**</span> (ACM The Web Conference), short paper
 
 **[Journals]**
+- **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
+SeongKu Kang, Wonbin Kweon, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+ACM Transactions on Recommender Systems (2024.02)
+
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 Knowledge-Based Systems (2022.03)
