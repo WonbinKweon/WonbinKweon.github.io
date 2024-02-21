@@ -75,7 +75,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 
 **[Journals]**
 - **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
-SeongKu Kang, Wonbin Kweon, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 ACM Transactions on Recommender Systems (2024.02)
 
 - **Personalized Distillation for Recommender System**\\
