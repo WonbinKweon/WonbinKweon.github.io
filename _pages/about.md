@@ -16,7 +16,8 @@ My research interests include **machine learning for real-world applications**\\
 Position
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Postdoctoral Researcher at Institute of Artificial Intelligence, 2024.03 - Present \\
+Postdoctoral Researcher, 2024.03 - Present \\
+Institute of Artificial Intelligence \\
 Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"}
 
 Education
