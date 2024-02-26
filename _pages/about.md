@@ -16,8 +16,7 @@ My research interests include **machine learning for real-world applications**\\
 Position
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Postdoctoral Researcher, 2024.03 - Present \\
-Institute of Artificial Intelligence \\
+Postdoctoral Researcher at Institute of Artificial Intelligence, 2024.03 - Present \\
 Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"}
 
 Education
@@ -28,7 +27,7 @@ Dissertation: Confidence Calibration for Recommender Systems and Its Application
 Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"} ([Data Intelligence Lab](https://sites.google.com/view/postechdi){:target="_blank"})
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
-Ranked 1st in Department\\
+*Ranked 1st in Department*\\
 Exchange Student at Technical University of Munich, Germany, 2018.03 - 2018.09
 - **GyeongNam Science High School**, South Korea\\
 Early Graduation, 2013.03 - 2015.02
