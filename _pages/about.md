@@ -24,7 +24,7 @@ Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Ph.D. in Dept. of Convergence IT Engineering, 2019.02 - 2024.02\\
-Dissertation: Confidence Calibration for Recommender Systems and Its Applications\\
+Dissertation: [Confidence Calibration for Recommender Systems and Its Applications](https://arxiv.org/pdf/2402.16325.pdf){:target="_blank"} \\
 Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"} ([Data Intelligence Lab](https://sites.google.com/view/postechdi){:target="_blank"})
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
