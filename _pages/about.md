@@ -38,7 +38,8 @@ Publications
 **[Conferences]**
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <u>Wonbin Kweon</u>, Hwanjo Yu\\
-<span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)\\
+<span style="color:firebrick">**Oral presentation**</span>
 
 - **Top-Personalized-K Recommendation**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
