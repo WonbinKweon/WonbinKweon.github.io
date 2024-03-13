@@ -36,6 +36,10 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 **[Conferences]**
+- **Rectifying Demonstration Shortcut in In-Context Learning**\\
+Joonwon Jang, Sanghwan Jang, <u>Wonbin Kweon</u>, Minjin Jeon, Hwanjo Yu\\
+<span style="color:midnightblue">**NAACL 2024**</span> (Annual Conference of the North American Chapter of the Association for Computational Linguistics)
+
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)\\
