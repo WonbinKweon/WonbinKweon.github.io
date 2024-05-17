@@ -36,6 +36,10 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 **[Conferences]**
+- **Continual Collaborative Distillation for Recommender System**\\
+	Gyuseok Lee*, SeongKu Kang*, <u>Wonbin Kweon</u>, Hwanjo Yu\\
+<span style="color:midnightblue">**KDD 2024**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
+
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
 Joonwon Jang, Sanghwan Jang, <u>Wonbin Kweon</u>, Minjin Jeon, Hwanjo Yu\\
 <span style="color:midnightblue">**NAACL 2024**</span> (Annual Conference of the North American Chapter of the Association for Computational Linguistics)
@@ -64,7 +68,7 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-<span style="color:midnightblue">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery & Data Mining)
+<span style="color:midnightblue">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Bidirectional Distillation for Top-K Recommender System**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
