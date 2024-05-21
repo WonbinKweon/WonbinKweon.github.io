@@ -109,15 +109,21 @@ Academic Services
 Honors & Awards
 -----
 - Fourth Prize, The 3rd POSTECH Research Award, 2023
-- AAAI Student Scholarship, 2022
+- AAAI Student Travel Award, 2022
 - Third Prize, Kakao Music Playlist Recommendation Competition, 2020
-- Kwanjeong Educational Foundation Scholarship, 2017 – 2019
-- Woori Bank Exchange Student Scholarship, 2018
+- WWW Student Travel Award, 2020
+- Kwanjeong Educational Foundation Scholarship (15,000 USD), 2017 – 2019
+- Woori Bank Exchange Student Scholarship (3,700 USD), 2018
+- POSTECH Exchange Student Scholarship (2,200 USD), 2018
 - POSTECH Admission Scholarship, 2015
-- Hanseong Sonjaehan Foundation Scholarship, 2014
+- Hanseong Sonjaehan Foundation Scholarship (3,700 USD), 2014
 
 Talks & Presentations
 -----
+- **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
+WWW (Singapore), oral presentation, 2024.05
+- **Top-Personalized-K Recommendation**\\
+WWW (Singapore), poster presentation, 2024.05
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 AAAI (Virtual, Vancouver), oral presentation, 2022.02\\
 UberAI (Virtual, San Francisco), invited by Joseph Wang, 2022.05\\
@@ -126,6 +132,11 @@ Naver-POSTECH AI Day (Pohang, South Korea), 2022.06
 WWW (Virtual, Ljubljana), oral presentation, 2021.04
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
 WWW (Virtual, Taipei), oral presentation, 2020.04
+
+Patents
+-----
+- Method and Apparatus of Knowledge Distillation from Heterogeneous Models for Reducing Prediction Time of Recommender Systems, South Korea, 2023
+- Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering, South Korea, 2022
 
 Teachings
 -----
