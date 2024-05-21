@@ -80,7 +80,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
-<span style="color:midnightblue">**WWW 2020**</span> (ACM The Web Conference), short paper
+<span style="color:midnightblue">**WWW 2020**</span> (ACM The Web Conference)
 
 **[Journals]**
 - **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
