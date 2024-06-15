@@ -140,8 +140,8 @@ WWW (Virtual, Taipei), oral presentation, 2020.04
 
 Patents
 -----
-- Method and Apparatus of Knowledge Distillation from Heterogeneous Models for Reducing Prediction Time of Recommender Systems, South Korea, 2023
-- Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering, South Korea, 2022
+- **Method and Apparatus of Knowledge Distillation from Heterogeneous Models for Reducing Prediction Time of Recommender Systems**, South Korea, 2023
+- **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**, South Korea, 2022
 
 Teachings
 -----
