@@ -48,7 +48,7 @@ Joonwon Jang, Sanghwan Jang, <u>Wonbin Kweon</u>, Minjin Jeon, Hwanjo Yu\\
 
 - **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
-ACM Transactions on Recommender Systems, 2024
+<span style="color:midnightblue">**ACM Transactions on Recommender Systems**</span>, 2024
 
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <u>Wonbin Kweon</u>, Hwanjo Yu\\
@@ -61,7 +61,7 @@ ACM Transactions on Recommender Systems, 2024
 
 - **Confidence Calibration for Recommender Systems and Its Applications**\\
 <u>Wonbin Kweon</u>\\
-Ph.D. Dissertation, POSTECH, 2024 (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
+<span style="color:midnightblue">**Ph.D. Dissertation**</span>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
 
 - **Distillation from Heterogeneous Models for Top-K Recommendation**\\
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
@@ -78,7 +78,7 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-Knowledge-Based Systems , 2022
+<span style="color:midnightblue">**Knowledge-Based Systems**</span>, 2022
 
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
@@ -90,7 +90,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-Information Sciences, 2021
+<span style="color:midnightblue">**Information Sciences**</span>, 2021
 
 - **DE-RRD: A Knowledge Distillation Framework for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
@@ -102,7 +102,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 
 Academic Services
 -----
-**[Conference Program Committee / Reviewer]**
+**[Program Committee / Reviewer]**
 - **WWW** (ACM The Web Conference): 2024
 - **KDD** (ACM SIGKDD Conference on Knowledge Discovery & Data Mining): 2023 - 2024
 - **NeurIPS** (Annual Conference on Neural Information Processing Systems): 2023
