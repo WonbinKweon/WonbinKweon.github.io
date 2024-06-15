@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
-I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.\\
-\\
-My research interests lie in\\
-**Machine learning for real-world applications** (e.g., recommender systems, knowledge distillation)\\
-**Trustworthy AI** (e.g., confidence calibration, unbiased estimator).
+I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.
+
+Research Interests
+------
+- **Machine learning for real-world applications**\\
+Recommender systems, Knowledge distillation
+- **Trustworthy AI**\\
+Confidence calibration, Unbiased estimator, Uncertainty
 
 Position
 ------
@@ -25,7 +28,6 @@ Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Ph.D. in Dept. of Convergence IT Engineering, 2019.02 - 2024.02\\
-<!-- Dissertation: [Confidence Calibration for Recommender Systems and Its Applications](https://arxiv.org/pdf/2402.16325.pdf){:target="_blank"} \\ -->
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a> <a href="https://sites.google.com/view/postechdi" target="_blank" style="color: black; ">(Data Intelligence Lab)</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
@@ -95,6 +97,10 @@ Knowledge-Based Systems (2022.03)
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 Information Sciences (2021.11)
+
+**[Dissertation]**
+- <a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank">**Confidence Calibration for Recommender Systems and Its Applications**</a>
+ <!-- style="color: black; text-decoration: underline;" -->
 
 Academic Services
 -----
