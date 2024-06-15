@@ -99,7 +99,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 Information Sciences (2021.11)
 
 **[Dissertation]**
-- <a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color:#666666; text-decoration:none;">**Confidence Calibration for Recommender Systems and Its Applications**</a>\\
+- <a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color:#696969; text-decoration:none;">**Confidence Calibration for Recommender Systems and Its Applications**</a>\\
 <u>Wonbin Kweon</u>\\
 Ph.D. Dissertation, POSTECH, 2024.01
 
