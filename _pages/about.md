@@ -38,7 +38,6 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
-**[Conferences]**
 - **Continual Collaborative Distillation for Recommender System**\\
 	{Gyuseok Lee\*, SeongKu Kang\*}, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2024**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
@@ -46,6 +45,10 @@ Publications
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
 Joonwon Jang, Sanghwan Jang, <u>Wonbin Kweon</u>, Minjin Jeon, Hwanjo Yu\\
 <span style="color:midnightblue">**NAACL 2024**</span> (Annual Conference of the North American Chapter of the Association for Computational Linguistics)
+
+- **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
+SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+ACM Transactions on Recommender Systems, 2024
 
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <u>Wonbin Kweon</u>, Hwanjo Yu\\
@@ -55,6 +58,10 @@ Joonwon Jang, Sanghwan Jang, <u>Wonbin Kweon</u>, Minjin Jeon, Hwanjo Yu\\
 - **Top-Personalized-K Recommendation**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)
+
+- **Confidence Calibration for Recommender Systems and Its Applications**\\
+<u>Wonbin Kweon</u>\\
+Ph.D. Dissertation, POSTECH, 2024 (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
 
 - **Distillation from Heterogeneous Models for Top-K Recommendation**\\
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
@@ -69,6 +76,10 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
 <span style="color:firebrick">**Oral presentation, acceptance rate: 3%**</span>
 
+- **Personalized Distillation for Recommender System**\\
+SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
+Knowledge-Based Systems , 2022
+
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
@@ -77,6 +88,10 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2021**</span> (ACM The Web Conference)
 
+- **Item-side Ranking Regularized Distillation for Recommender System**\\
+SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
+Information Sciences, 2021
+
 - **DE-RRD: A Knowledge Distillation Framework for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**CIKM 2020**</span> (ACM International Conference on Information and Knowledge Management)
@@ -84,24 +99,6 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2020**</span> (ACM The Web Conference)
-
-**[Journals]**
-- **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
-SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
-ACM Transactions on Recommender Systems (2024.02)
-
-- **Personalized Distillation for Recommender System**\\
-SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-Knowledge-Based Systems (2022.03)
-
-- **Item-side Ranking Regularized Distillation for Recommender System**\\
-SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-Information Sciences (2021.11)
-
-**[Dissertation]**
-- <a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color:#696969; text-decoration:none;">**Confidence Calibration for Recommender Systems and Its Applications**</a>\\
-<u>Wonbin Kweon</u>\\
-Ph.D. Dissertation, POSTECH, 2024.01
 
 Academic Services
 -----
