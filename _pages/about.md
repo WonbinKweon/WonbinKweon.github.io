@@ -20,14 +20,14 @@ Position
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Postdoctoral Research Associate, 2024.03 - Present \\
 Institute of Artificial Intelligence \\
-Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"}
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a>
 
 Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Ph.D. in Dept. of Convergence IT Engineering, 2019.02 - 2024.02\\
 Dissertation: [Confidence Calibration for Recommender Systems and Its Applications](https://arxiv.org/pdf/2402.16325.pdf){:target="_blank"} \\
-Advisor: [Prof. Hwanjo Yu](https://sites.google.com/view/postechdi/member/faculty?authuser=0){:target="_blank"} ([Data Intelligence Lab](https://sites.google.com/view/postechdi){:target="_blank"})
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a> <a href="https://sites.google.com/view/postechdi" target="_blank" style="color: black; text-decoration: underline;">(Data Intelligence Lab)</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
 *Ranked 1st in Department*\\
