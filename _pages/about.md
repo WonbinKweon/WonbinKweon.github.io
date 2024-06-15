@@ -28,7 +28,7 @@ Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Ph.D. in Dept. of Convergence IT Engineering, 2019.02 - 2024.02\\
-Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a> <a href="https://sites.google.com/view/postechdi" target="_blank" style="color: black; ">(Data Intelligence Lab)</a>
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a> (<a href="https://sites.google.com/view/postechdi" target="_blank" style="color: black; text-decoration: underline;">Data Intelligence Lab</a>)
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
 *Ranked 1st in Department*\\
@@ -99,8 +99,9 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 Information Sciences (2021.11)
 
 **[Dissertation]**
-- <a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank">**Confidence Calibration for Recommender Systems and Its Applications**</a>
- <!-- style="color: black; text-decoration: underline;" -->
+- <a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black;">**Confidence Calibration for Recommender Systems and Its Applications**</a>
+<u>Wonbin Kweon</u>
+Ph.D. Dissertation, POSTECH, 2024.02
 
 Academic Services
 -----
