@@ -27,10 +27,10 @@ Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuse
 Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Ph.D. in Dept. of Convergence IT Engineering, 2019.02 - 2024.02\\
+Ph.D. in IT Engineering, 2019.02 - 2024.02\\
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a> (<a href="https://sites.google.com/view/postechdi" target="_blank" style="color: black; text-decoration: underline;">Data Intelligence Lab</a>)
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-B.S. in Dept. of Industrial and Management Engineering, 2015.03 - 2019.02\\
+B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
 *Ranked 1st in the Department*\\
 Exchange Student at Technical University of Munich, Germany, 2018.03 - 2018.09
 - **GyeongNam Science High School**, South Korea\\
