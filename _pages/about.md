@@ -81,6 +81,10 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
 <span style="color:firebrick">**Oral presentation, top-3% among 9,020 papers**</span>
 
+<!-- - **Model-Agnostic Embedding Transformation via Two-Phase Learning for Mitigating Popularity Bias**\\
+Changsoo Kwak, <u>Wonbin Kweon</u>, Hwanjo Yu\\
+<span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\ -->
+
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**Knowledge-Based Systems**</span>, 2022
