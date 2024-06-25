@@ -59,6 +59,7 @@ SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu
 <u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)
 
+
 - **Confidence Calibration for Recommender Systems and Its Applications**\\
 <u>Wonbin Kweon</u>\\
 <span style="color:midnightblue">**Ph.D. Dissertation**</span>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
@@ -67,6 +68,7 @@ SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu
 SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2023**</span> (ACM The Web Conference)
 
+
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2022**</span> (ACM The Web Conference)
@@ -74,11 +76,12 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
 <span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
-<span style="color:firebrick">**Oral presentation, acceptance rate: 3%**</span>
+<span style="color:firebrick">**Oral presentation, top-3% among 9,020 papers**</span>
 
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**Knowledge-Based Systems**</span>, 2022
+
 
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
@@ -91,6 +94,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**Information Sciences**</span>, 2021
+
 
 - **DE-RRD: A Knowledge Distillation Framework for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
