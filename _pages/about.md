@@ -38,6 +38,7 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
+**2024**\\
 - **Continual Collaborative Distillation for Recommender System**\\
 	{Gyuseok Lee\*, SeongKu Kang\*}, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2024**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
@@ -60,7 +61,7 @@ SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu
 <span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)
 
 &nbsp;
-
+**2023**\\
 - **Confidence Calibration for Recommender Systems and Its Applications**\\
 <u>Wonbin Kweon</u>\\
 <span style="color:midnightblue">**Ph.D. Dissertation**</span>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
@@ -70,7 +71,7 @@ SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu
 <span style="color:midnightblue">**WWW 2023**</span> (ACM The Web Conference)
 
 &nbsp;
-
+**2022**\\
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
 SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2022**</span> (ACM The Web Conference)
@@ -85,7 +86,7 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**Knowledge-Based Systems**</span>, 2022
 
 &nbsp;
-
+**2021**\\
 - **Topology Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
@@ -99,7 +100,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**Information Sciences**</span>, 2021
 
 &nbsp;
-
+**2020**\\
 - **DE-RRD: A Knowledge Distillation Framework for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**CIKM 2020**</span> (ACM International Conference on Information and Knowledge Management)
