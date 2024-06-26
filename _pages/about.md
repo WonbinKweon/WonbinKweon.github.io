@@ -12,7 +12,7 @@ I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.
 
 Research Interests
 ------
-- Recommender systems, Information Retrieval
+- Recommender Systems, Information Retrieval
 - Trustworthy AI
 - Large Language Models
 
