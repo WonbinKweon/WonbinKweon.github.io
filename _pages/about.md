@@ -76,7 +76,8 @@ SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2022**</span> (ACM The Web Conference)
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
-<u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
+<!-- <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\ -->
+**Wonbin Kweon**, SeongKu Kang, Hwanjo Yu\\
 <span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
 <span style="color:firebrick">**Oral presentation, top-3% among 9,020 papers**</span>
 
@@ -152,8 +153,8 @@ WWW (Virtual, Taipei), oral presentation, 2020.04
 
 Patents
 -----
-- **Method and Apparatus of Knowledge Distillation from Heterogeneous Models for Reducing Prediction Time of Recommender Systems**, South Korea, 2023
-- **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**, South Korea, 2022
+- Method and Apparatus of Knowledge Distillation from Heterogeneous Models for Reducing Prediction Time of Recommender Systems, South Korea, 2023
+- Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering, South Korea, 2022
 
 Teachings
 -----
