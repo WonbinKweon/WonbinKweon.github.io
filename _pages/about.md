@@ -116,7 +116,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 Academic Services
 -----
 **[Program Committee / Reviewer]**
-- **KDD** (ACM SIGKDD Conference on Knowledge Discovery & Data Mining): 2023 - 2024
+- **KDD** (ACM SIGKDD Conference on Knowledge Discovery & Data Mining): 2023 - 2025
 - **NeurIPS** (Annual Conference on Neural Information Processing Systems): 2023
 - **AAAI** (Annual AAAI Conference on Artificial Intelligence): 2023 - 2025
 - **WWW** (ACM The Web Conference): 2024
