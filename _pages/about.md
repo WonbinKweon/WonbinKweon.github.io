@@ -97,7 +97,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 
 - **Bidirectional Distillation for Top-K Recommender System**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
-<span style="color:midnightblue">**WWW 2021**</span> (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2021**</span> (ACM The Web Conference)\\
 <span style="color:firebrick">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="color: black; ">link</a>)
 
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
