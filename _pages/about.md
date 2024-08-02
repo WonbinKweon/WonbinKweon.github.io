@@ -53,11 +53,11 @@ SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)\\
-<span style="color:firebrick">**Oral presentation**</span>
+<span style="color:firebrick">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 
 - **Top-Personalized-K Recommendation**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
-<span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)
+<span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference) (<a href="https://www.youtube.com/watch?v=LWTKEI1xqgU&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 
 &nbsp;
 **2023**
@@ -98,6 +98,7 @@ SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 - **Bidirectional Distillation for Top-K Recommender System**\\
 <u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2021**</span> (ACM The Web Conference)
+<span style="color:firebrick">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="color: black; ">link</a>)
 
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
