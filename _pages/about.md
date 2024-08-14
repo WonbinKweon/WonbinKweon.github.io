@@ -118,7 +118,7 @@ Academic Services
 -----
 **[Program Committee / Reviewer]**
 - **KDD** (ACM SIGKDD Conference on Knowledge Discovery & Data Mining): 2023 - 2025
-- **WWW** (ACM The Web Conference): 2024
+- **WWW** (ACM The Web Conference): 2024 - 2025
 - **SDM** (SIAM International Conference on Data Mining): 2024
 - **AAAI** (Annual AAAI Conference on Artificial Intelligence): 2023 - 2025
 - **ICLR** (International Conference on Learning Representations): 2024 - 2025
