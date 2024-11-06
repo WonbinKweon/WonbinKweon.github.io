@@ -31,8 +31,9 @@ Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuse
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
 *Ranked 1st in the Department*\\
-Exchange Student at Technical University of Munich, Germany, 2018.03 - 2018.09\\
-Exchange Student at Korea National University of Arts, South Korea, 2016.12 - 2017.02
+Exchange Student at TU Munich (Germany), K-Arts (South Korea)
+<!-- Exchange Student at Technical University of Munich, Germany, 2018.03 - 2018.09\\
+Exchange Student at Korea National University of Arts, South Korea, 2016.12 - 2017.02 -->
 - **GyeongNam Science High School**, South Korea\\
 Early Graduation, 2013.03 - 2015.02
 
