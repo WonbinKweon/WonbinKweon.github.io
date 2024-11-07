@@ -167,7 +167,7 @@ Patents
 Teachings
 -----
 - Predictive Analytics Modelling (DS30), TA, Hyundai Motors, 2023
-- Understanding and Implementation of Artificial Intelligence (DS20), TA, Hyundai Motors, 2022
+- Artificial Intelligence (DS20), TA, Hyundai Motors, 2022
 - Artificial Intelligence, TA, SK Hynix, 2020
 - Artificial Intelligence, TA, SK Innovation, 2020
 - Introduction to Data Analysis (CSED226), TA, POSTECH, 2020
