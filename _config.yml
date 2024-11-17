@@ -92,14 +92,14 @@ analytics:
 author:
   name             : "Wonbin Kweon"
   avatar           : "alaska.jpg"
-  bio              : #"Postdoctoral Researcher at POSTECH Institute of AI"
+  bio              : files/CV.pdf
   location         : "Pohang, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u-zOiMUAAAAJ&hl=en"
   email            : "wonbin.kweon@gmail.com"
   researchgate     : 
-  uri              : files/CV.pdf
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
