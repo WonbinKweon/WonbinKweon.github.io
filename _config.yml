@@ -92,14 +92,14 @@ analytics:
 author:
   name             : "Wonbin Kweon"
   avatar           : "alaska.jpg"
-  bio              : files/CV.pdf
+  bio              : 
   location         : "Pohang, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u-zOiMUAAAAJ&hl=en"
   email            : "wonbin.kweon@gmail.com"
   researchgate     : 
-  uri              : 
+  uri              : files/CV.pdf
   bitbucket        :
   codepen          :
   dribbble         :
