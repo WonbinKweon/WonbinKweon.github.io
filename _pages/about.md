@@ -39,15 +39,20 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
+* indicates equal contribution.
 &nbsp;
 **2025**
+- **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
+Gwangseok Han\*, <u>Wonbin Kweon\*</u>, Minsoo Kim, Hwanjo Yu\\
+<span style="color:midnightblue">**KDD 2025**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
+
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, <u>Wonbin Kweon</u>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <span style="color:midnightblue">**WSDM 2025**</span> (ACM International Conference on Web Search and Data Mining)
 
 **2024**
 - **Continual Collaborative Distillation for Recommender System**\\
-{Gyuseok Lee\*, SeongKu Kang\*}, <u>Wonbin Kweon</u>, Hwanjo Yu\\
+Gyuseok Lee\*, SeongKu Kang\*, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2024**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
