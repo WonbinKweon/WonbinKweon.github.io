@@ -40,7 +40,7 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 &nbsp;
-\* indicates equal contribution.\\
+\* indicates equal contribution.
 
 &nbsp;
 **2025**
