@@ -46,7 +46,7 @@ Publications
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
 Gwangseok Han\*, <u>Wonbin Kweon</u>\*, Minsoo Kim, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2025**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)\\
-<span style="color:black">**\*Equal Contribution**</span>
+**\*Equal Contribution**
 
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, <u>Wonbin Kweon</u>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
