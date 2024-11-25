@@ -39,13 +39,13 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
-&nbsp;
-\* indicates equal contribution.
+<!-- &nbsp;
+\* indicates equal contribution. -->
 
 &nbsp;
 **2025**
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-Gwangseok Han\*, <u>Wonbin Kweon</u>\*, Minsoo Kim, Hwanjo Yu\\
+Gwangseok Han\*, <u>Wonbin Kweon</u>\*, Minsoo Kim, Hwanjo Yu (\*equal contribution)\\
 <span style="color:midnightblue">**KDD 2025**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
