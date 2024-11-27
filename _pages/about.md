@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hello! I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
-I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.
-[](files/FWCI_avg_2024.11.26.PNG)
+I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.[](files/FWCI_avg_2024.11.26.PNG)
 
 Research Interests
 ------
