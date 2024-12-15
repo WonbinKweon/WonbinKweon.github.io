@@ -136,7 +136,7 @@ Academic Services
 - **WWW** (ACM The Web Conference): 2024 - 2025
 - **AAAI** (Annual AAAI Conference on Artificial Intelligence): 2023 - 2025
 - **ICLR** (International Conference on Learning Representations): 2024 - 2025
-- **ICML** (International Conference on Machine Learning): 2024
+- **ICML** (International Conference on Machine Learning): 2024 - 2025
 - **NeurIPS** (Annual Conference on Neural Information Processing Systems): 2023
 
 Honors & Awards
