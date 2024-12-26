@@ -45,53 +45,53 @@ Publications
 &nbsp;
 **2025**
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-Gwangseok Han<span style="color:black">\*</span>, <span style="color:black"><u>Wonbin Kweon</u>\*</span>, Minsoo Kim, Hwanjo Yu <span style="color:black">(\*equal contribution)</span>\\
+Gwangseok Han<span style="color:midnightblue">\*</span>, <u>Wonbin Kweon</u><span style="color:midnightblue">\*</span>, Minsoo Kim, Hwanjo Yu <span style="color:midnightblue">(\*equal contribution)</span>\\
 <span style="color:midnightblue">**KDD 2025**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
-SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
+SeongKu Kang, Bowen Jin, <u>Wonbin Kweon</u>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <span style="color:midnightblue">**WSDM 2025**</span> (ACM International Conference on Web Search and Data Mining)
 
 **2024**
 - **Continual Collaborative Distillation for Recommender System**\\
-Gyuseok Lee\*, SeongKu Kang\*, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+Gyuseok Lee\*, SeongKu Kang\*, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2024**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
-Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Minjin Jeon, Hwanjo Yu\\
+Joonwon Jang, Sanghwan Jang, <u>Wonbin Kweon</u>, Minjin Jeon, Hwanjo Yu\\
 <span style="color:midnightblue">**NAACL 2024**</span> (Annual Conference of the North American Chapter of the Association for Computational Linguistics)
 
 - **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
-SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 <span style="color:midnightblue">**ACM Transactions on Recommender Systems**</span>, 2024
 
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+<u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference)\\
 <span style="color:firebrick">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 
 - **Top-Personalized-K Recommendation**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
+<u>Wonbin Kweon</u>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2024**</span> (ACM The Web Conference) (<a href="https://www.youtube.com/watch?v=LWTKEI1xqgU&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 
 &nbsp;
 **2023**
 - **Confidence Calibration for Recommender Systems and Its Applications**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>\\
+<u>Wonbin Kweon</u>\\
 <span style="color:midnightblue">**Ph.D. Dissertation**</span>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
 
 - **Distillation from Heterogeneous Models for Top-K Recommendation**\\
-SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+SeongKu Kang, <u>Wonbin Kweon</u>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2023**</span> (ACM The Web Conference)
 
 &nbsp;
 **2022**
 - **Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering**\\
-SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Junyoung Hwang, Hwanjo Yu\\
+SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2022**</span> (ACM The Web Conference)
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
+<u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
 <!-- **Wonbin Kweon**, SeongKu Kang, Hwanjo Yu\\ -->
 <span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\
 <span style="color:firebrick">**Oral presentation, top-3% among 9,020 papers**</span>
@@ -101,32 +101,32 @@ Changsoo Kwak, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**AAAI 2022**</span> (Thirty-Sixth AAAI Conference on Artificial Intelligence)\\ -->
 
 - **Personalized Distillation for Recommender System**\\
-SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+SeongKu Kang, Dongha Lee, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**Knowledge-Based Systems**</span>, 2022
 
 &nbsp;
 **2021**
 - **Topology Distillation for Recommender System**\\
-SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2021**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Bidirectional Distillation for Top-K Recommender System**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
+<u>Wonbin Kweon</u>, SeongKu Kang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2021**</span> (ACM The Web Conference)\\
 <span style="color:firebrick">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="color: black; ">link</a>)
 
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
-SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**Information Sciences**</span>, 2021
 
 &nbsp;
 **2020**
 - **DE-RRD: A Knowledge Distillation Framework for Recommender System**\\
-SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+SeongKu Kang, Junyoung Hwang, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**CIKM 2020**</span> (ACM International Conference on Information and Knowledge Management)
 
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
+<u>Wonbin Kweon</u>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
 <span style="color:midnightblue">**WWW 2020**</span> (ACM The Web Conference)
 
 Academic Services
