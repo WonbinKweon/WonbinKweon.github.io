@@ -45,11 +45,11 @@ Publications
 &nbsp;
 **2025**
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-Gwangseok Han<span style="color:black">\*</span>, <u>Wonbin Kweon</u><span style="color:black">\*</span>, Minsoo Kim, Hwanjo Yu <span style="color:black">(\*equal contribution)</span>\\
+Gwangseok Han<span style="color:black">\*</span>, <span style="color:black"><u>Wonbin Kweon</u>\*</span>, Minsoo Kim, Hwanjo Yu <span style="color:black">(\*equal contribution)</span>\\
 <span style="color:midnightblue">**KDD 2025**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
-SeongKu Kang, Bowen Jin, <u>Wonbin Kweon</u>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
+SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <span style="color:midnightblue">**WSDM 2025**</span> (ACM International Conference on Web Search and Data Mining)
 
 **2024**
