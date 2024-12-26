@@ -54,7 +54,7 @@ SeongKu Kang, Bowen Jin, <u>Wonbin Kweon</u>, Yu Zhang, Dongha Lee, Jiawei Han, 
 
 **2024**
 - **Continual Collaborative Distillation for Recommender System**\\
-Gyuseok Lee\*, SeongKu Kang\*, <u>Wonbin Kweon</u>, Hwanjo Yu\\
+Gyuseok Lee**\***, SeongKu Kang**\***, <u>Wonbin Kweon</u>, Hwanjo Yu\\
 <span style="color:midnightblue">**KDD 2024**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
