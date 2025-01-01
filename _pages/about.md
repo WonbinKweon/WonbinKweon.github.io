@@ -43,6 +43,10 @@ Publications
 \* indicates equal contribution. -->
 
 &nbsp;
+**Preprint**
+- **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**\\
+Joonwon Jang, Jaehee Kim, <u>Wonbin Kweon</u>, Hwanjo Yu
+
 **2025**
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
 Gwangseok Han**\***, <u>Wonbin Kweon</u>**\***, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
