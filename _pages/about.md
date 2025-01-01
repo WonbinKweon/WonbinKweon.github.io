@@ -43,6 +43,7 @@ Publications
 \* indicates equal contribution. -->
 
 &nbsp;
+
 **Preprint**
 - **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**\\
 Joonwon Jang, Jaehee Kim, <u>Wonbin Kweon</u>, Hwanjo Yu
