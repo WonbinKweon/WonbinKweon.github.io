@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 12; /* wonbin */
+$doc-font-size              : 11; /* wonbin */
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -57,7 +57,7 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : #000; /*$dark-gray;*/
 $border-color               : $gray; /* wonbin */
 
 $primary-color              : #7a8288;
