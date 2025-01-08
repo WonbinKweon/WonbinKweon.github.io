@@ -37,8 +37,8 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
-- **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**\\
-Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+- <span style="color:black">Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria</span>\\
+Joonwon Jang, Jaehee Kim, **<span style="color:black">Wonbin Kweon</span>**, Hwanjo Yu\\
 Preprint
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
