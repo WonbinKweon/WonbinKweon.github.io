@@ -57,8 +57,7 @@ SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, 
 ACM Transactions on Recommender Systems, 2024
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
-WWW 2024\\
-<span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
+WWW 2024, <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 - **Top-Personalized-K Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
 WWW 2024 (<a href="https://www.youtube.com/watch?v=LWTKEI1xqgU&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
@@ -73,8 +72,7 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 WWW 2022
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-AAAI 2022\\
-<span style="color:midnightblue">**Oral presentation, top-3% among 9,020 papers**</span>
+AAAI 2022, <span style="color:midnightblue">**Oral presentation, top-3% among 9,020 papers**</span>
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 Knowledge-Based Systems, 2022
@@ -83,8 +81,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 KDD 2021
 - **Bidirectional Distillation for Top-K Recommender System**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-WWW 2021\\
-<span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="color: black; ">link</a>)
+WWW 2021, <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="color: black; ">link</a>)
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 Information Sciences, 2021
