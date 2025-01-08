@@ -40,17 +40,17 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 <!-- &nbsp; -->
-- **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**\\
+- Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria\\
 Joonwon Jang, Jaehee Kim, <u>Wonbin Kweon</u>, Hwanjo Yu\\
-**Preprint**
+Preprint
 
-- **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-Gwangseok Han**\***, <u>Wonbin Kweon</u>**\***, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
-<span style="color:midnightblue">**KDD 2025**</span> (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
+- Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences\\
+\*Gwangseok Han, **\*Wonbin Kweon**, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
+KDD 2025 (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
-- **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
-SeongKu Kang, Bowen Jin, <u>Wonbin Kweon</u>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
-<span style="color:midnightblue">**WSDM 2025**</span> (ACM International Conference on Web Search and Data Mining)
+- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
+SeongKu Kang, Bowen Jin, **Wonbin Kweon**, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
+WSDM 2025 (ACM International Conference on Web Search and Data Mining)
 
 - **Continual Collaborative Distillation for Recommender System**\\
 Gyuseok Lee**\***, SeongKu Kang**\***, <u>Wonbin Kweon</u>, Hwanjo Yu\\
