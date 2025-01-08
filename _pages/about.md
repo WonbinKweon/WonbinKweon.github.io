@@ -38,16 +38,16 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 - <span style="color:black">Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria</span>\\
-Joonwon Jang, Jaehee Kim, **<span style="color:black">Wonbin Kweon</span>**, Hwanjo Yu\\
+Joonwon Jang, Jaehee Kim, **Wonbin Kweon**, Hwanjo Yu\\
 Preprint
 - <span style="color:black">Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences</span>\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 KDD 2025
 - <span style="color:black">Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation</span>\\
-SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
+SeongKu Kang, Bowen Jin, <span style="color:black">Wonbin Kweon</span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 WSDM 2025
 - <span style="color:black">Continual Collaborative Distillation for Recommender System</span>\\
-**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>**Wonbin Kweon**</u></span>, Hwanjo Yu\\
+**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black">**<u>Wonbin Kweon</u>**</span>, Hwanjo Yu\\
 KDD 2024
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
 Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Minjin Jeon, Hwanjo Yu\\
