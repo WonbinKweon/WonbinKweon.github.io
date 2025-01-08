@@ -90,7 +90,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 CIKM 2020
 - <span style="color:black">Deep Rating Elicitation for New Users in Collaborative Filtering</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
->WWW 2020
+WWW 2020
 
 Academic Services
 -----
