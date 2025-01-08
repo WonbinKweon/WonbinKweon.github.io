@@ -40,7 +40,7 @@ Publications
 - <span style="color:black">Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria</span>\\
 Joonwon Jang, Jaehee Kim, **<span style="color:black">Wonbin Kweon</span>**, Hwanjo Yu\\
 Preprint
-- **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
+- <span style="color:black">Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences</span>\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 KDD 2025
 - <span style="color:black">Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation</span>\\
