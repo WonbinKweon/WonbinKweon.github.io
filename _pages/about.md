@@ -44,7 +44,7 @@ Preprint
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 KDD 2025
 - <span style="color:black">Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation</span>\\
-SeongKu Kang, Bowen Jin, <span style="color:black">Wonbin Kweon</span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
+SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 WSDM 2025
 - <span style="color:black">Continual Collaborative Distillation for Recommender System</span>\\
 **\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
