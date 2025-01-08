@@ -48,7 +48,7 @@ Preprint
 \*Gwangseok Han, **\*Wonbin Kweon**, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 KDD 2025 (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
 
-- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
+- **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, **Wonbin Kweon**, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 WSDM 2025 (ACM International Conference on Web Search and Data Mining)
 
