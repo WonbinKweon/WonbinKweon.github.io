@@ -41,7 +41,7 @@ Publications
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 Preprint
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-**\***Gwangseok Han, <span style="color:black"><u>**\***Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
+**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 KDD 2025
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
