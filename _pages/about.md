@@ -72,7 +72,7 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 WWW 2022
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-AAAI 2022, <span style="color:midnightblue">**Oral presentation, top-3% among 9,020 papers**</span>
+AAAI 2022, <span style="color:midnightblue">**Oral presentation (top-3% among 9,020 papers)**</span>
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 Knowledge-Based Systems, 2022
