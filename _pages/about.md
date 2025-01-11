@@ -117,17 +117,17 @@ Honors & Awards
 Talks & Presentations
 -----
 - <span style="color:black">Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random</span>\\
-WWW (Singapore), oral presentation, 2024.05
+&hyphen; WWW (Singapore), oral presentation, 2024.05
 - <span style="color:black">Top-Personalized-K Recommendation</span>\\
-WWW (Singapore), poster presentation, 2024.05
+&hyphen; WWW (Singapore), poster presentation, 2024.05
 - <span style="color:black">Obtaining Calibrated Probabilities with Personalized Ranking Models</span>\\
-AAAI (Virtual, Vancouver), oral presentation, 2022.02\\
-UberAI (Virtual, San Francisco), invited by Joseph Wang, 2022.05\\
-Naver-POSTECH AI Day (Pohang, South Korea), 2022.06
+&hyphen; AAAI (Virtual, Vancouver), oral presentation, 2022.02\\
+&hyphen; UberAI (Virtual, San Francisco), invited by Joseph Wang, 2022.05\\
+&hyphen; Naver-POSTECH AI Day (Pohang, South Korea), 2022.06
 - <span style="color:black">Bidirectional Distillation for Top-K Recommender System</span>\\
-WWW (Virtual, Ljubljana), oral presentation, 2021.04
+&hyphen; WWW (Virtual, Ljubljana), oral presentation, 2021.04
 - <span style="color:black">Deep Rating Elicitation for New Users in Collaborative Filtering</span>\\
-WWW (Virtual, Taipei), oral presentation, 2020.04
+&hyphen; WWW (Virtual, Taipei), oral presentation, 2020.04
 
 Patents
 -----
