@@ -94,7 +94,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 
 Academic Services
 -----
-**[Program Committee / Reviewer]**
+<!-- **[Program Committee / Reviewer]** -->
 - KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining), 2023 - 2025
 - WWW (ACM The Web Conference), 2024 - 2025
 - AAAI (Annual AAAI Conference on Artificial Intelligence), 2023 - 2025
