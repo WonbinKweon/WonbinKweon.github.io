@@ -27,7 +27,7 @@ Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Ph.D. in IT Engineering, 2019.02 - 2024.02\\
-Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a> (<a href="https://sites.google.com/view/postechdi" target="_blank" style="color: black; text-decoration: underline;">Data Intelligence Lab</a>)
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
 *Ranked 1st in the Department*\\
