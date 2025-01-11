@@ -41,7 +41,7 @@ Publications
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>Preprint</i>
 - <span style="color:black">Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences</span>\\
-**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
+**\***Gwangseok Han, **\*Wonbin Kweon**, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>KDD</i>, 2025
 - <span style="color:black">Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation</span>\\
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
@@ -56,13 +56,13 @@ Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span
 SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 <i>ACM Transactions on Recommender Systems</i>, 2024
 - <span style="color:black">Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random</span>\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+**Wonbin Kweon**, Hwanjo Yu\\
 <i>WWW</i>, 2024 <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 - <span style="color:black">Top-Personalized-K Recommendation</span>\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
+**Wonbin Kweon**, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
 <i>WWW</i>, 2024 (<a href="https://www.youtube.com/watch?v=LWTKEI1xqgU&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 - <span style="color:black">Confidence Calibration for Recommender Systems and Its Applications</span>\\
-<span style="color:black"><u>Wonbin Kweon</u></span>\\
+**Wonbin Kweon**\\
 <i>Ph.D. Dissertation</i>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
 - <span style="color:black">Distillation from Heterogeneous Models for Top-K Recommendation</span>\\
 SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
@@ -71,7 +71,7 @@ SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, 
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Junyoung Hwang, Hwanjo Yu\\
 <i>WWW</i>, 2022
 - <span style="color:black">Obtaining Calibrated Probabilities with Personalized Ranking Models</span>\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
+**Wonbin Kweon**, SeongKu Kang, Hwanjo Yu\\
 <i>AAAI</i>, 2022 <span style="color:midnightblue">**Oral presentation (top-3% among 9,020 papers)**</span>
 - <span style="color:black">Personalized Distillation for Recommender System</span>\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
@@ -80,7 +80,7 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>KDD</i>, 2021
 - <span style="color:black">Bidirectional Distillation for Top-K Recommender System</span>\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
+**Wonbin Kweon**, SeongKu Kang, Hwanjo Yu\\
 <i>WWW</i>, 2021 <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="color: black; ">link</a>)
 - <span style="color:black">Item-side Ranking Regularized Distillation for Recommender System</span>\\
 SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
@@ -89,7 +89,8 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>CIKM</i>, 2020
 - <span style="color:black">Deep Rating Elicitation for New Users in Collaborative Filtering</span>\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
+<!-- <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\ -->
+**Wonbin Kweon**, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
 <i>WWW</i>, 2020
 
 Academic Services
