@@ -43,12 +43,18 @@ Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 - <span style="color:black">Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences</span>\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>KDD</i>, 2025
-- <span style="color:black">Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation</span>\\
+- **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
+SeongKu Kang, Bowen Jin, **Wonbin Kweon**, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
+<i>WSDM</i>, 2025
+- **Continual Collaborative Distillation for Recommender System**\\
+**\***Gyuseok Lee, **\***SeongKu Kang, **Wonbin Kweon**, Hwanjo Yu\\
+<i>KDD</i>, 2024
+<!-- - <span style="color:black">Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation</span>\\
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <i>WSDM</i>, 2025
 - <span style="color:black">Continual Collaborative Distillation for Recommender System</span>\\
 **\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
-<i>KDD</i>, 2024
+<i>KDD</i>, 2024 -->
 - <span style="color:black">Rectifying Demonstration Shortcut in In-Context Learning</span>\\
 Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Minjin Jeon, Hwanjo Yu\\
 <i>NAACL</i>, 2024
