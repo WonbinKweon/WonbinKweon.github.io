@@ -21,13 +21,13 @@ Position
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Postdoctoral Research Associate, 2024.03 - Present \\
 Institute of Artificial Intelligence \\
-Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; ">Prof. Hwanjo Yu</a>
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: $text-color; ">Prof. Hwanjo Yu</a>
 
 Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Ph.D. in IT Engineering, 2019.02 - 2024.02\\
-Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: black; text-decoration: underline;">Prof. Hwanjo Yu</a>
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="color: $text-color; text-decoration: underline;">Prof. Hwanjo Yu</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
 *Ranked 1st in the Department*\\
