@@ -21,13 +21,13 @@ Position
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Postdoctoral Research Associate, 2024.03 - Present \\
 Institute of Artificial Intelligence \\
-Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank">Prof. Hwanjo Yu</a>
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 
 Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Ph.D. in IT Engineering, 2019.02 - 2024.02\\
-Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank">Prof. Hwanjo Yu</a>
+Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
 *Ranked 1st in the Department*\\
@@ -57,13 +57,13 @@ Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span
 <i>WWW</i>, 2024 <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" >link</a>)
 - <span style="color:black">Top-Personalized-K Recommendation</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
-<i>WWW</i>, 2024 (<a href="https://www.youtube.com/watch?v=LWTKEI1xqgU&ab_channel=ACMSIGWEB" target="_blank" >link</a>)
+<i>WWW</i>, 2024 (<a href="https://www.youtube.com/watch?v=LWTKEI1xqgU&ab_channel=ACMSIGWEB" target="_blank" style="text-decoration:none;" >link</a>)
 - <span style="color:black">Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems</span>\\
 SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 <i>ACM Transactions on Recommender Systems</i>, 2024
 - <span style="color:black">Confidence Calibration for Recommender Systems and Its Applications</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>\\
-<i>Ph.D. Dissertation</i>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" >link</a>)
+<i>Ph.D. Dissertation</i>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="text-decoration:none;">link</a>)
 - <span style="color:black">Distillation from Heterogeneous Models for Top-K Recommendation</span>\\
 SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 <i>WWW</i>, 2023
@@ -81,7 +81,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 <i>KDD</i>, 2021
 - <span style="color:black">Bidirectional Distillation for Top-K Recommender System</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-<i>WWW</i>, 2021 <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="color: $text-color; ">link</a>)
+<i>WWW</i>, 2021 <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="text-decoration:none;">link</a>)
 - <span style="color:black">Item-side Ranking Regularized Distillation for Recommender System</span>\\
 SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>Information Sciences</i>, 2021
