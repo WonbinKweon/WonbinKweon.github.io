@@ -52,15 +52,15 @@ SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Y
 - <span style="color:black">Rectifying Demonstration Shortcut in In-Context Learning</span>\\
 Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Minjin Jeon, Hwanjo Yu\\
 <i>NAACL</i>, 2024
-- <span style="color:black">Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems</span>\\
-SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
-<i>ACM Transactions on Recommender Systems</i>, 2024
 - <span style="color:black">Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>WWW</i>, 2024 <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
 - <span style="color:black">Top-Personalized-K Recommendation</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
 <i>WWW</i>, 2024 (<a href="https://www.youtube.com/watch?v=LWTKEI1xqgU&ab_channel=ACMSIGWEB" target="_blank" style="color: black; ">link</a>)
+- <span style="color:black">Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems</span>\\
+SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+<i>ACM Transactions on Recommender Systems</i>, 2024
 - <span style="color:black">Confidence Calibration for Recommender Systems and Its Applications</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>\\
 <i>Ph.D. Dissertation</i>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="color: black; ">link</a>)
