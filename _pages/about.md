@@ -38,10 +38,10 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 <!-- - <span style="color:black">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>\\ -->
-- **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
+- <span style="font-weight:500;">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
 <i>WWW</i>, 2025
-- **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**\\
+- <span style="font-weight:500;">Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria</span>\\
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>Preprint</i>
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
