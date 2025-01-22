@@ -38,13 +38,13 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 <!-- - <span style="color:black">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>\\ -->
-- <span style="font-weight:600;">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>\\
+- <span style="font-weight:650;">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
 <i>WWW</i>, 2025
-- <span style="font-weight:600;">Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria</span>\\
+- <span style="font-weight:670;">Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria</span>\\
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>Preprint</i>
-- <span style="font-weight:600;">Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences</span>\\
+- <span style="font-weight:700;">Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences</span>\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>KDD</i>, 2025
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
