@@ -37,7 +37,8 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
-- <span style="color:black">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>\\
+<!-- - <span style="color:black">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>\\ -->
+-**Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
 <i>WWW</i>, 2025
 - <span style="color:black">Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria</span>\\
@@ -108,9 +109,8 @@ Academic Services
 Honors & Awards
 -----
 - Fourth Prize, The 3rd POSTECH Research Award, 2023
-- AAAI Student Travel Award, 2022
+- AAAI Student Scholarship, 2022
 - Third Prize, Kakao Music Playlist Recommendation Competition, 2020
-- WWW Student Travel Award, 2020
 - Kwanjeong Educational Foundation Scholarship (15,000 USD), 2017 – 2019
 - Woori Bank Exchange Student Scholarship (4,000 USD), 2018
 - POSTECH Exchange Student Scholarship (2,000 USD), 2018
