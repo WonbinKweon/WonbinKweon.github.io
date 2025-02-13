@@ -41,9 +41,9 @@ Publications
 - **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
 <i>WWW</i>, 2025
-- **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**\\
+<!-- - **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**\\
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
-<i>Preprint</i>
+<i>Preprint</i> -->
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>KDD</i>, 2025
@@ -108,6 +108,7 @@ Academic Services
 
 Honors & Awards
 -----
+- POSTECH PIURI Postdoc Fellowship (30,000 USD), 2025
 - Fourth Prize, The 3rd POSTECH Research Award, 2023
 - AAAI Student Scholarship, 2022
 - Third Prize, Kakao Music Playlist Recommendation Competition, 2020
