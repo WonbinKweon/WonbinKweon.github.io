@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 Hello! I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
-I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.[](files/FWCI_avg_2024.11.26.PNG)
+I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.\\
+\\
+My research interests include Information Retrieval, Large Language Models, and Trustworthy AI.
 
-Research Interests
+<!-- Research Interests
 ------
 - Information Retrieval
 - Large Language Models
-- Trustworthy AI
+- Trustworthy AI -->
 
 Position
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Postdoctoral Research Associate, 2024.03 - Present \\
-Institute of Artificial Intelligence \\
+Postdoc at Institute of Artificial Intelligence, 2024.03 - Present \\
+*PIURI Postdoctoral Fellowship*\\
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 
 Education
