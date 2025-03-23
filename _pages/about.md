@@ -32,9 +32,9 @@ Ph.D. in IT Engineering, 2019.02 - 2024.02\\
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
-*Ranked 1st in the Department*\\
+*Ranked 1st in the Department*
 - **Technical University of Munich (TU Munich)**, Germany\\
-Exchange student, 2018.03 - 2018.08\\
+Exchange student, 2018.03 - 2018.08
 - **GyeongNam Science High School**, South Korea\\
 Early Graduation, 2013.03 - 2015.02
 
