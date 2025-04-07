@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hello! I am a postdoctoral researcher at UIUC.\\
-I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu, and worked as a postdoctoral researcher at POSTECH institute of AI.\\
+I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu, and worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
 My research interests include Information Retrieval, Large Language Models, and Trustworthy AI.
 
 <!-- Research Interests
