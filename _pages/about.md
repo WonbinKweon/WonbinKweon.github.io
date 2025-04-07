@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
+Hello! I am a postdoctoral researcher at UIUC.\\
 I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu.\\
-\\
+After completing my Ph.D., I worked as a postdoctoral researcher at POSTECH.
 My research interests include Information Retrieval, Large Language Models, and Trustworthy AI.
 
 <!-- Research Interests
@@ -20,8 +20,11 @@ My research interests include Information Retrieval, Large Language Models, and 
 
 Position
 ------
+- **University of Illinois at Urbana-Champaign (UIUC)**, United States\\
+Postdoctoral Researcher at Siebel School of Computing and Data Science, 2025.04 - Present \\
+Advisor: Prof. Jiawei Han
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Postdoc at Institute of Artificial Intelligence, 2024.03 - Present \\
+Postdoctoral Researcher at Institute of Artificial Intelligence, 2024.03 - 2025.03 \\
 *PIURI Postdoctoral Fellowship*\\
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 
