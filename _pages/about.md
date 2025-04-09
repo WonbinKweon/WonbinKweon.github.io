@@ -21,7 +21,7 @@ Position
 ------
 - **University of Illinois at Urbana-Champaign (UIUC)**, United States\\
 Postdoctoral Researcher at Siebel School of Computing, 2025.04 - Present \\
-Advisor: Prof. Jiawei Han
+Advisor: <a href="https://hanj.cs.illinois.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a> 
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Postdoctoral Researcher at Institute of Artificial Intelligence, 2024.03 - 2025.03 \\
 *PIURI Postdoctoral Fellowship*\\
