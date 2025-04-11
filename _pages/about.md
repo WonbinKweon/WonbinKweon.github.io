@@ -12,7 +12,7 @@ I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu,\
 and worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
 My research interests include Information Retrieval, Large Language Models, and Trustworthy AI.
 
-Position
+Experience
 ------
 - **University of Illinois at Urbana-Champaign (UIUC)**, United States\\
 Postdoctoral Researcher at Siebel School of Computing, 2025.04 - Present \\
@@ -33,7 +33,7 @@ B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
 - **GyeongNam Science High School**, South Korea\\
 Early Graduation, 2013.03 - 2015.02
 
-Publications
+Publication
 -----
 - **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
