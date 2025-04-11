@@ -7,18 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a postdoctoral researcher at UIUC.\\
-I received my Ph.D. degree at POSTECH under the supervision of Prof. Hwanjo Yu,\\
-and worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
+Hello! I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC).\\
+I received my Ph.D. from POSTECH, advised by Prof. Hwanjo Yu,\\
+and subsequently worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
 My research interests include Information Retrieval, Large Language Models, and Trustworthy AI.
 
 Experience
 ------
 - **University of Illinois at Urbana-Champaign (UIUC)**, United States\\
-Postdoctoral Researcher at Siebel School of Computing, 2025.04 - Present \\
+Postdoctoral Researcher, Siebel School of Computing, 2025.04 - Present \\
 Advisor: <a href="https://hanj.cs.illinois.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a> 
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Postdoctoral Researcher at Institute of Artificial Intelligence, 2024.03 - 2025.03 \\
+Postdoctoral Researcher, Institute of Artificial Intelligence, 2024.03 - 2025.03 \\
 *PIURI Postdoctoral Fellowship*\\
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 
@@ -33,7 +33,7 @@ B.S. in Industrial and Management Engineering, 2015.03 - 2019.02\\
 - **GyeongNam Science High School**, South Korea\\
 Early Graduation, 2013.03 - 2015.02
 
-Publication
+Publications
 -----
 - **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
@@ -90,7 +90,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
 <i>WWW</i>, 2020
 
-Academic Services
+Academic Service
 -----
 **[Program Committee / Reviewer]**
 - KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining), 2023 - 2025
@@ -133,7 +133,7 @@ Patents
 - Method and Apparatus of Knowledge Distillation from Heterogeneous Models for Reducing Prediction Time of Recommender Systems, South Korea, 2023
 - Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering, South Korea, 2022
 
-Teachings
+Teaching
 -----
 - Predictive Analytics Modelling (DS30), TA, Hyundai Motors, 2023
 - Artificial Intelligence (DS20), TA, Hyundai Motors, 2022
