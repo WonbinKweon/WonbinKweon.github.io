@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 Hello! I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC).\\
-I received my Ph.D. from POSTECH, advised by Prof. Hwanjo Yu,\\
-and subsequently worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
+I received my Ph.D. from POSTECH, advised by Prof. Hwanjo Yu, and subsequently worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
 My research interests include Information Retrieval, Large Language Models, and Trustworthy AI.
 
 Experience
 ------
 - **University of Illinois at Urbana-Champaign (UIUC)**, United States\\
-Postdoctoral Researcher, Siebel School of Computing, 2025.04 - Present \\
+Postdoctoral Researcher, Siebel School of Computing and Data Science, 2025.04 - Present \\
 Advisor: <a href="https://hanj.cs.illinois.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a> 
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 Postdoctoral Researcher, Institute of Artificial Intelligence, 2024.03 - 2025.03 \\
@@ -103,12 +102,12 @@ Academic Service
 
 Honors & Awards
 -----
-- POSTECH PIURI Postdoc Fellowship (50,000 USD), 2025
+- POSTECH PIURI Postdoctoral Fellowship (50,000 USD), 2025
 - Fourth Prize, The 3rd POSTECH Research Award, 2023
 - AAAI Student Scholarship, 2022
 - Third Prize, Kakao Music Playlist Recommendation Competition, 2020
 - Kwanjeong Educational Foundation Scholarship (15,000 USD), 2017 – 2019
-- Woori Bank Exchange Student Scholarship (4,000 USD), 2018
+- Woori Bank Exchange Student Scholarship for TU Munich in Germany (4,000 USD), 2018
 - POSTECH Exchange Student Scholarship (2,000 USD), 2018
 - POSTECH Admission Scholarship, 2015
 - Hanseong Sonjaehan Foundation Scholarship (4,000 USD), 2014
