@@ -113,10 +113,10 @@ Honors & Awards
 
 Talks & Presentations
 -----
+- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
+&#45; WSDM (Hannover), oral presentation, 2025.03
 - Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random\\
 &#45; WWW (Singapore), oral presentation, 2024.05
-- Top-Personalized-K Recommendation\\
-&#45; WWW (Singapore), poster presentation, 2024.05
 - Obtaining Calibrated Probabilities with Personalized Ranking Models\\
 &#45; AAAI (Virtual, Vancouver), oral presentation, 2022.02\\
 &#45; UberAI (Virtual, San Francisco), invited by Joseph Wang, 2022.05\\
