@@ -108,7 +108,7 @@ Honors & Awards
 - Third Prize, Kakao Music Playlist Recommendation Competition, 2020
 - Kwanjeong Educational Foundation Scholarship (15,000 USD), 2017 – 2019
 - Woori Bank Exchange Student Scholarship for TU Munich in Germany (4,000 USD), 2018
-- POSTECH Exchange Student Scholarship (2,000 USD), 2018
+- POSTECH Exchange Student Scholarship for TU Munich in Germany (2,000 USD), 2018
 - POSTECH Admission Scholarship, 2015
 - Hanseong Sonjaehan Foundation Scholarship (4,000 USD), 2014
 
