@@ -98,7 +98,6 @@ Academic Service
 - ICML (International Conference on Machine Learning), 2024 - 2025
 - ICLR (International Conference on Learning Representations), 2024 - 2025
 - ACL (Annual Meeting of the Association for Computational Linguistics), 2025
-- NeurIPS (Annual Conference on Neural Information Processing Systems), 2023
 
 Honors & Awards
 -----
