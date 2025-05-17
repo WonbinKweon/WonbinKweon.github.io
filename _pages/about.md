@@ -24,7 +24,7 @@ Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuse
 Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Ph.D., IT Engineering, 2019.02 - 2024.02\\
+Ph.D., Convergence IT Engineering, 2019.02 - 2024.02\\
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S., Industrial and Management Engineering, 2015.03 - 2019.02\\
@@ -34,6 +34,9 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
+- **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
+Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu
+<i>ACL Findings</i>, 2025
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>KDD</i>, 2025
