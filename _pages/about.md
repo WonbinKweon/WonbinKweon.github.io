@@ -137,14 +137,18 @@ Talks & Presentations
 -----
 - Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\ 
 &#45; WSDM (Hannover), oral presentation (<a href="https://av.tib.eu/media/70193" target="_blank" >link</a>), 2025.03
+
 - Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random\\
 &#45; WWW (Singapore), oral presentation (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" >link</a>), 2024.05
+
 - Obtaining Calibrated Probabilities with Personalized Ranking Models\\
 &#45; AAAI (Virtual, Vancouver), oral presentation, 2022.02\\
 &#45; UberAI (Virtual, San Francisco), invited by Joseph Wang, 2022.05\\
 &#45; Naver-POSTECH AI Day (Pohang, South Korea), 2022.06
+
 - Bidirectional Distillation for Top-K Recommender System\\
 &#45; WWW (Virtual, Ljubljana), oral presentation (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="text-decoration:none;">link</a>), 2021.04
+
 - Deep Rating Elicitation for New Users in Collaborative Filtering\\
 &#45; WWW (Virtual, Taipei), oral presentation, 2020.04
 
