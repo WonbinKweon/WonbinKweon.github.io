@@ -135,7 +135,7 @@ Honors & Awards
 
 Talks & Presentations
 -----
-- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\ 
+- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
 &#45; WSDM (Hannover), oral presentation (<a href="https://av.tib.eu/media/70193" target="_blank" >link</a>), 2025.03
 
 - Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random\\
