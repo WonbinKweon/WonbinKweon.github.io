@@ -36,7 +36,7 @@ Publications
 -----
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
-<i>ACL</i>, findings, 2025
+<i>ACL Findings</i>, 2025
 
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
@@ -61,7 +61,6 @@ Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>WWW</i>, 2024
-<!-- <i>WWW</i>, 2024 <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" >link</a>) -->
 
 - **Top-Personalized-K Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
@@ -85,8 +84,7 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-<i>AAAI</i>, oral presentation, 2022
-<!-- <span style="color:midnightblue">**Oral presentation (top-3% among 9,020 papers)**</span> -->
+<i>AAAI oral</i>, 2022
 
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
@@ -99,7 +97,6 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 - **Bidirectional Distillation for Top-K Recommender System**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
 <i>WWW</i>, 2021
- <!-- <span style="color:midnightblue">**Oral presentation**</span> (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="text-decoration:none;">link</a>) -->
 
 - **Item-side Ranking Regularized Distillation for Recommender System**\\
 SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
@@ -112,7 +109,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
 <i>WWW</i>, short paper, 2020
- <!-- <span style="color:midnightblue">**Oral presentation**</span> -->
+
 
 Academic Service
 -----
@@ -138,16 +135,16 @@ Honors & Awards
 
 Talks & Presentations
 -----
-- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
-&#45; WSDM (Hannover), oral presentation, 2025.03
+- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\ 
+&#45; WSDM (Hannover), oral presentation (<a href="https://av.tib.eu/media/70193" target="_blank" >link</a>), 2025.03
 - Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random\\
-&#45; WWW (Singapore), oral presentation, 2024.05
+&#45; WWW (Singapore), oral presentation (<a href="https://www.youtube.com/watch?v=fs-Xoi8oKWc&ab_channel=ACMSIGWEB" target="_blank" >link</a>), 2024.05
 - Obtaining Calibrated Probabilities with Personalized Ranking Models\\
 &#45; AAAI (Virtual, Vancouver), oral presentation, 2022.02\\
 &#45; UberAI (Virtual, San Francisco), invited by Joseph Wang, 2022.05\\
 &#45; Naver-POSTECH AI Day (Pohang, South Korea), 2022.06
 - Bidirectional Distillation for Top-K Recommender System\\
-&#45; WWW (Virtual, Ljubljana), oral presentation, 2021.04
+&#45; WWW (Virtual, Ljubljana), oral presentation (<a href="https://www.youtube.com/watch?v=VsyV0JLaUXY&ab_channel=VideoLecturesChannel" target="_blank" style="text-decoration:none;">link</a>), 2021.04
 - Deep Rating Elicitation for New Users in Collaborative Filtering\\
 &#45; WWW (Virtual, Taipei), oral presentation, 2020.04
 
