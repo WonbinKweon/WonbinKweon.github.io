@@ -13,7 +13,7 @@ My research interests include Information Retrieval, Large Language Models, and 
 
 Experience
 ------
-- **University of Illinois at Urbana-Champaign (UIUC)**, United States\\
+- **University of Illinois Urbana-Champaign (UIUC)**, United States\\
 Postdoctoral Researcher, Siebel School of Computing and Data Science, 2025.04 - Present \\
 Advisor: <a href="https://hanj.cs.illinois.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a> 
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
