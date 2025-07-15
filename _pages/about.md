@@ -24,7 +24,7 @@ Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuse
 Education
 ------
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
-Ph.D., Convergence IT Engineering, 2019.02 - 2024.02\\
+Ph.D., Convergence IT Engineering, 2019.03 - 2024.02\\
 Advisor: <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>
 - **Pohang University of Science and Technology (POSTECH)**, South Korea\\
 B.S., Industrial and Management Engineering, 2015.03 - 2019.02\\
@@ -84,7 +84,7 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-<i>AAAI oral</i>, 2022
+<i>AAAI oral (top-3\%)</i>, 2022
 
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
