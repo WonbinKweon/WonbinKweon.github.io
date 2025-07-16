@@ -84,7 +84,7 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-<i>AAAI oral (top-3\%)</i>, 2022
+<i>AAAI oral (top-3%)</i>, 2022
 
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
