@@ -34,8 +34,10 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
+**\***equal contribution\\
+
 - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
-Nanu Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu\\
+**\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu\\
 <i>BMVC</i>, 2025
 
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
@@ -43,7 +45,7 @@ Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 <i>ACL findings</i>, 2025
 
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
+**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu \\
 <i>KDD</i>, 2025
 
 - **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
