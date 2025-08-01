@@ -114,7 +114,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
-<i>WWW short</i>, 2020
+<i>WWW</i>, 2020
 
 
 Academic Service
