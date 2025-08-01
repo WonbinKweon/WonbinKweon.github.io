@@ -36,7 +36,87 @@ Publications
 -----
 **\***equal contribution
 
-- **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
+- Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment\\
+**\***Nanu Kim, **\*Wonbin Kweon**, **\***Minsoo Kim, Hwanjo Yu\\
+<i>BMVC</i>, 2025
+
+- Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning\\
+Joonwon Jang, Jaehee Kim, **Wonbin Kweon**, Seonghyeon Lee, Hwanjo Yu\\
+<i>ACL findings</i>, 2025
+
+- Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences\\
+**\***Gwangseok Han, **\*Wonbin Kweon**, Minsoo Kim, Hwanjo Yu \\
+<i>KDD</i>, 2025
+
+- Uncertainty Quantification and Decomposition for LLM-based Recommendation\\
+**Wonbin Kweon**, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
+<i>WWW</i>, 2025
+
+- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
+SeongKu Kang, Bowen Jin, **Wonbin Kweon**, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
+<i>WSDM</i>, 2025
+
+- Continual Collaborative Distillation for Recommender System\\
+**\***Gyuseok Lee, **\***SeongKu Kang, **Wonbin Kweon**, Hwanjo Yu\\
+<i>KDD</i>, 2024
+
+- Rectifying Demonstration Shortcut in In-Context Learning\\
+Joonwon Jang, Sanghwan Jang, **Wonbin Kweon**, Minjin Jeon, Hwanjo Yu\\
+<i>NAACL</i>, 2024
+
+- Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random\\
+**Wonbin Kweon**, Hwanjo Yu\\
+<i>WWW</i>, 2024
+
+- Top-Personalized-K Recommendation\\
+**Wonbin Kweon**, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
+<i>WWW</i>, 2024
+
+- Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems\\
+SeongKu Kang, **Wonbin Kweon**, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+<i>ACM Transactions on Recommender Systems</i>, 2024
+
+- Confidence Calibration for Recommender Systems and Its Applications\\
+**Wonbin Kweon**>\\
+<i>Ph.D. Dissertation</i>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="text-decoration:none;">link</a>)
+
+- Distillation from Heterogeneous Models for Top-K Recommendation\\
+SeongKu Kang, **Wonbin Kweon**, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
+<i>WWW</i>, 2023
+
+- Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering\\
+SeongKu Kang, Dongha Lee, **Wonbin Kweon**, Junyoung Hwang, Hwanjo Yu\\
+<i>WWW</i>, 2022
+
+- Obtaining Calibrated Probabilities with Personalized Ranking Models\\
+**Wonbin Kweon**, SeongKu Kang, Hwanjo Yu\\
+<i>AAAI oral</i> (top-3%), 2022
+
+- Personalized Distillation for Recommender System\\
+SeongKu Kang, Dongha Lee, **Wonbin Kweon**, Hwanjo Yu\\
+<i>Knowledge-Based Systems</i>, 2022
+
+- Topology Distillation for Recommender System\\
+SeongKu Kang, Junyoung Hwang, **Wonbin Kweon**, Hwanjo Yu\\
+<i>KDD</i>, 2021
+
+- Bidirectional Distillation for Top-K Recommender System\\
+**Wonbin Kweon**, SeongKu Kang, Hwanjo Yu\\
+<i>WWW</i>, 2021
+
+- Item-side Ranking Regularized Distillation for Recommender System\\
+SeongKu Kang, Junyoung Hwang, **Wonbin Kweon**, Hwanjo Yu\\
+<i>Information Sciences</i>, 2021
+
+- DE-RRD: A Knowledge Distillation Framework for Recommender System\\
+SeongKu Kang, Junyoung Hwang, **Wonbin Kweon**, Hwanjo Yu\\
+<i>CIKM</i>, 2020
+
+- Deep Rating Elicitation for New Users in Collaborative Filtering\\
+**Wonbin Kweon**, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
+<i>WWW</i>, 2020
+
+<!-- - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
 **\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu\\
 <i>BMVC</i>, 2025
 
@@ -114,7 +194,7 @@ SeongKu Kang, Junyoung Hwang, <span style="color:black"><u>Wonbin Kweon</u></spa
 
 - **Deep Rating Elicitation for New Users in Collaborative Filtering**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Junyoung Hwang, Hwanjo Yu\\
-<i>WWW short</i>, 2020
+<i>WWW short</i>, 2020 -->
 
 
 Academic Service
