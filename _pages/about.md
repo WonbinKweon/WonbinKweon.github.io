@@ -36,6 +36,10 @@ Publications
 -----
 **\***equal contribution
 
+- **Federated Continual Recommendation**\\
+Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Seongjin Choi, Dongha Kim, Hwanjo Yu\\
+<i>CIKM</i>, 2025
+
 - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
 **\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu\\
 <i>BMVC</i>, 2025
