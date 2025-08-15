@@ -36,21 +36,21 @@ Publications
 -----
 **\***equal contribution
 
-- **Federated Continual Recommendation**\\
-Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Seongjin Choi, Dongha Kim, Hwanjo Yu\\
-<i>CIKM</i>, 2025
-
 - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
 **\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu\\
 <i>BMVC</i>, 2025
 
-- **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
-Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
-<i>ACL findings</i>, 2025
+- **Federated Continual Recommendation**\\
+Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Seongjin Choi, Dongha Kim, Hwanjo Yu\\
+<i>CIKM</i>, 2025
 
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
 **\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu \\
 <i>KDD</i>, 2025
+
+- **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
+Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
+<i>ACL findings</i>, 2025
 
 - **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
