@@ -36,6 +36,10 @@ Publications
 -----
 **\***equal contribution
 
+- **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
+<span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
+<i>EMNLP</i>, 2025
+
 - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
 **\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu\\
 <i>BMVC</i>, 2025
