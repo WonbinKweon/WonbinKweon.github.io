@@ -34,7 +34,7 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
-**\***equal contribution
+<div style="text-align:right">**\***equal contribution</div>
 
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
