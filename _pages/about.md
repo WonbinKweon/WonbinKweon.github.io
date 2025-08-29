@@ -36,7 +36,7 @@ Publications
 -----
 <div style="text-align:right">*equal contribution</div>
 
-<div style="font-size:24px;">2025</div>
+<div style="font-size:20px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
 <i>EMNLP</i>, 2025
@@ -65,7 +65,7 @@ Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <i>WSDM</i>, 2025
 
-<div style="font-size:22px;">2024</div>
+<div style="font-size:20px;">2024</div>
 - **Continual Collaborative Distillation for Recommender System**\\
 **\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>KDD</i>, 2024
