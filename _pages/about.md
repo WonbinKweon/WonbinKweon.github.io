@@ -36,7 +36,7 @@ Publications
 -----
 <div style="text-align:right">*equal contribution</div>
 
-2025\\
+<div style="font-size:18px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
 <i>EMNLP</i>, 2025
@@ -65,7 +65,7 @@ Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <i>WSDM</i>, 2025
 
-2024\\
+<div style="font-size:16px;">2024</div>
 - **Continual Collaborative Distillation for Recommender System**\\
 **\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>KDD</i>, 2024
@@ -86,7 +86,7 @@ Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span
 SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
 <i>ACM Transactions on Recommender Systems</i>, 2024
 
-~2023 (During PhD)\\
+<div style="font-size:14px;">-2023 (During PhD)</div>
 - **Confidence Calibration for Recommender Systems and Its Applications**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>\\
 <i>Ph.D. Dissertation</i>, POSTECH (<a href="https://arxiv.org/pdf/2402.16325.pdf" target="_blank" style="text-decoration:none;">link</a>)
