@@ -34,15 +34,13 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
-<div style="text-align:right">*equal contribution</div>
-
 <div style="font-size:20px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
 <i>EMNLP</i>, 2025
 
 - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
-**\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu\\
+**\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>BMVC</i>, 2025
 
 - **Federated Continual Recommendation**\\
@@ -50,7 +48,7 @@ Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, 
 <i>CIKM</i>, 2025
 
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu \\
+**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>KDD</i>, 2025
 
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
@@ -67,7 +65,7 @@ SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Y
 
 <div style="font-size:20px;">2024</div>
 - **Continual Collaborative Distillation for Recommender System**\\
-**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
+**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu (**\***equal contribution)\\
 <i>KDD</i>, 2024
 
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
