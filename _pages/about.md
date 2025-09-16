@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://hanj.cs.illinois.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a>. \\
+I am a postdoctoral researcher at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://hanj.cs.illinois.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a>. \\
 I received my Ph.D. from POSTECH, advised by <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>, and subsequently worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
 My research interests include Data Mining, with a focus on Information Retrieval, Large Language Models, and Trustworthy AI.
 
