@@ -39,6 +39,14 @@ Publications
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
 <i>EMNLP</i>, 2025
 
+- **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
+<span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
+<i>WWW</i>, 2025
+
+- **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
+**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
+<i>KDD</i>, 2025
+
 - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
 **\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
 <i>BMVC</i>, 2025
@@ -47,31 +55,19 @@ Publications
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Seongjin Choi, Dongha Kim, Hwanjo Yu\\
 <i>CIKM</i>, 2025
 
-- **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
-<i>KDD</i>, 2025
-
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
 <i>ACL findings</i>, 2025
-
-- **Uncertainty Quantification and Decomposition for LLM-based Recommendation**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, SeongKu Kang, Hwanjo Yu\\
-<i>WWW</i>, 2025
 
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <i>WSDM</i>, 2025
 
+- **BPL: Bias-adaptive Preference Distillation Learning for Recommender System**\\
+SeongKu Kang, Jianxun Lian, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, Jaehyun Lee, Jindong Wang, Xing Xie, Hwanjo Yu\\
+<i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2025
+
 <div style="font-size:20px;">2024</div>
-- **Continual Collaborative Distillation for Recommender System**\\
-**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu (**\***equal contribution)\\
-<i>KDD</i>, 2024
-
-- **Rectifying Demonstration Shortcut in In-Context Learning**\\
-Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Minjin Jeon, Hwanjo Yu\\
-<i>NAACL</i>, 2024
-
 - **Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>WWW</i>, 2024
@@ -79,6 +75,14 @@ Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span
 - **Top-Personalized-K Recommendation**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Sanghwan Jang, Hwanjo Yu\\
 <i>WWW</i>, 2024
+
+- **Continual Collaborative Distillation for Recommender System**\\
+**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu (**\***equal contribution)\\
+<i>KDD</i>, 2024
+
+- **Rectifying Demonstration Shortcut in In-Context Learning**\\
+Joonwon Jang, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Minjin Jeon, Hwanjo Yu\\
+<i>NAACL</i>, 2024
 
 - **Unbiased, Effective, and Efficient Distillation from Heterogeneous Models for Recommender Systems**\\
 SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Dongha Lee, Jianxun Lian, Xing Xie, Hwanjo Yu\\
