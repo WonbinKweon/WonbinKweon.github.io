@@ -55,13 +55,13 @@ Publications
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Seongjin Choi, Dongha Kim, Hwanjo Yu\\
 <i>CIKM</i>, 2025
 
-- **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
-Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
-<i>ACL findings</i>, 2025
-
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
 <i>WSDM</i>, 2025
+
+- **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
+Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
+<i>ACL findings</i>, 2025
 
 - **BPL: Bias-adaptive Preference Distillation Learning for Recommender System**\\
 SeongKu Kang, Jianxun Lian, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Sanghwan Jang, Jaehyun Lee, Jindong Wang, Xing Xie, Hwanjo Yu\\
