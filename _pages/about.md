@@ -139,7 +139,7 @@ Academic Service
 - ICML (International Conference on Machine Learning), 2024 - 2025
 - ICLR (International Conference on Learning Representations), 2024 - 2026
 - ACL (Annual Meeting of the Association for Computational Linguistics), 2025
-- Expert Systems With Applications (SCIE, Q1), 2025
+- Expert Systems with Applications (SCIE, Q1), 2025
 - Journal of Computational Chemistry (SCIE, Q1), 2025
 
 Honors & Awards
