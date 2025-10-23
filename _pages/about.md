@@ -36,7 +36,7 @@ Publications
 -----
 <div style="font-size:20px;">Preprint</div>
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu\\
+<span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu
 
 <div style="font-size:20px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
