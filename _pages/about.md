@@ -34,6 +34,10 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
+<div style="font-size:20px;">Preprint</div>
+- **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
+<span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu\\
+
 <div style="font-size:20px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
@@ -156,6 +160,16 @@ Honors & Awards
 
 Talks & Presentations
 -----
+<!-- - PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval\\
+&#45; MMLI, UIUC, 2025.10
+&#45; CS598JH, UIUC, 2025.10 -->
+
+- Information Retrieval in the Era of Large Language Models\\
+&#45; UNIST (Virtual), AIGS seminar, 2025.10
+
+- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
+&#45; WSDM (Hannover), oral presentation (<a href="https://av.tib.eu/media/70193" target="_blank" >link</a>), 2025.03
+
 - Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
 &#45; WSDM (Hannover), oral presentation (<a href="https://av.tib.eu/media/70193" target="_blank" >link</a>), 2025.03
 
