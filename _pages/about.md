@@ -61,7 +61,8 @@ Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, 
 
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
-<i>WSDM</i>, 2025
+<i>WSDM</i>, 2025\\
+<i>Best Papers of WSDM 2025, Invited to ACM TIST</i>
 
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
@@ -107,7 +108,8 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-<i>AAAI oral</i> (top-3%), 2022
+<i>AAAI </i>, 2022\\
+<i>Oral presentation, top-3%</i>
 
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
