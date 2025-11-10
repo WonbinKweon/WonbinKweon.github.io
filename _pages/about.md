@@ -40,7 +40,8 @@ Publications
 
 <div style="font-size:20px;">2026</div>
 - **Harmonic Dataset Distillation for Time Series Forecasting**\\
-Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Suyeon Kim, Gyuseok Lee, Hwanjo Yu
+Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Suyeon Kim, Gyuseok Lee, Hwanjo Yu\\
+<i>AAAI</i>, 2026
 
 <div style="font-size:20px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
