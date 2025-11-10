@@ -38,6 +38,10 @@ Publications
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu
 
+<div style="font-size:20px;">2026</div>
+- **Harmonic Dataset Distillation for Time Series Forecasting**\\
+Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Suyeon Kim, Gyuseok Lee, Hwanjo Yu
+
 <div style="font-size:20px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu\\
