@@ -66,7 +66,8 @@ Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, 
 
 - **Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation**\\
 SeongKu Kang, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu\\
-<i>WSDM</i>, 2025 (Best Papers of WSDM 2025, Invited to ACM TIST)
+<i>WSDM</i>, 2025\\
+<span style="color:blue">Best Papers of WSDM 2025, Invited to ACM TIST</span>
 
 - **Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning**\\
 Joonwon Jang, Jaehee Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Seonghyeon Lee, Hwanjo Yu\\
@@ -112,7 +113,8 @@ SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 
 - **Obtaining Calibrated Probabilities with Personalized Ranking Models**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Hwanjo Yu\\
-<i>AAAI</i>, 2022 (Oral presentation, top-3%)
+<i>AAAI</i>, 2022\\
+<span style="color:blue">Oral presentation, top-3%</span>
 
 - **Personalized Distillation for Recommender System**\\
 SeongKu Kang, Dongha Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
@@ -171,9 +173,6 @@ Talks & Presentations
 
 - Information Retrieval in the Era of Large Language Models\\
 &#45; UNIST (Virtual), AIGS seminar, 2025.10
-
-- Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
-&#45; WSDM (Hannover), oral presentation (<a href="https://av.tib.eu/media/70193" target="_blank" >link</a>), 2025.03
 
 - Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation\\
 &#45; WSDM (Hannover), oral presentation (<a href="https://av.tib.eu/media/70193" target="_blank" >link</a>), 2025.03
