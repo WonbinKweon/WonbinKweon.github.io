@@ -150,7 +150,7 @@ Academic Service
 - KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining), 2023 - 2025
 - AAAI (Annual AAAI Conference on Artificial Intelligence), 2023 - 2026
 - WWW (ACM The Web Conference), 2024 - 2026
-- ICML (International Conference on Machine Learning), 2024 - 2025
+- ICML (International Conference on Machine Learning), 2024 - 2026
 - ICLR (International Conference on Learning Representations), 2024 - 2026
 - ACL (Annual Meeting of the Association for Computational Linguistics), 2025
 - Expert Systems with Applications (SCIE, Q1), 2025
