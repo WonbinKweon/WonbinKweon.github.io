@@ -38,8 +38,14 @@ Publications
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu
 
-- **Personalized Federated Recommendation With Knowledge Guidance**\\
+- **Improving Scientific Document Retrieval with Academic Concept Index**\\
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
+
+- **Enhancing Session-Based Recommendation via Validated and Enriched LLM-Generated Intents**\\
+Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, Yaokun Liu, Yifan Liu, Susik Yoon, Dong Wang, SeongKu Kang
+
+- **Personalized Federated Recommendation With Knowledge Guidance**\\
+Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Bowen Jin, Yu Zhang, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, Seongku Kang
 
 <div style="font-size:20px;">2026</div>
 - **Harmonic Dataset Distillation for Time Series Forecasting**\\
