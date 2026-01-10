@@ -34,7 +34,7 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
-<div style="font-size:20px;">Preprint</div>
+<div style="font-size:20px;">Preprints</div>
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu
 
