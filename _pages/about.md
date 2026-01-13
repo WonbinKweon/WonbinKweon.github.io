@@ -46,7 +46,7 @@ Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 
 <div style="font-size:20px;">2026</div>
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
-<span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu
+<span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu\\
 <i>WWW</i>, 2026
 
 - **Harmonic Dataset Distillation for Time Series Forecasting**\\
