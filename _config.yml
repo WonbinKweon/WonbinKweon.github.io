@@ -99,7 +99,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=u-zOiMUAAAAJ&hl=en"
   email            : "wonbin@illinois.edu"
   researchgate     : 
-  uri              : files/CV.pdf
+  # uri              : files/CV.pdf
   bitbucket        :
   codepen          :
   dribbble         :
