@@ -38,7 +38,7 @@ Publications
 - **Personalized Federated Recommendation With Knowledge Guidance**\\
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
 
-- **Enhancing Session-Based Recommendation via Validated and Enriched LLM-Generated Intents**\\
+- **SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation**\\
 Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, Yaokun Liu, Yifan Liu, Susik Yoon, Dong Wang, SeongKu Kang
 
 - **Improving Scientific Document Retrieval with Academic Concept Index**\\
