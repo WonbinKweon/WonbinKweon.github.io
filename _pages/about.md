@@ -36,7 +36,7 @@ Publications
 -----
 <div style="font-size:20px;">Preprints</div>
 
-= **Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering**\\
+- **Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering**\\
 Jash Rajesh Parekh, <span style="color:black"><u>Wonbin Kweon</u></span>, Joey Chan, Rezarta Islamaj, Robert Leaman, Pengcheng Jiang, Chih-Hsuan Wei, ZhiZheng Wang, Zhiyong Lu, Jiawei Han
 
 - **TaxoCite: Hierarchical Topic-Enriched Citation Intent Classification for Scientific Literature**\\
