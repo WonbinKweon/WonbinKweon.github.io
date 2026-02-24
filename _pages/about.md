@@ -35,6 +35,16 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 <div style="font-size:20px;">Preprints</div>
+
+= **Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering**\\
+Jash Rajesh Parekh, <span style="color:black"><u>Wonbin Kweon</u></span>, Joey Chan, Rezarta Islamaj, Robert Leaman, Pengcheng Jiang, Chih-Hsuan Wei, ZhiZheng Wang, Zhiyong Lu, Jiawei Han
+
+- **TaxoCite: Hierarchical Topic-Enriched Citation Intent Classification for Scientific Literature**\\
+Runchu Tian, Xueqiang Xu, <span style="color:black"><u>Wonbin Kweon</u></span>, Jimeng Shi, Wei Hu, Yunfan Kang, Xiaolin Liu, Xuanyu Meng, Junxia Cui, Lantao Mei, Bowen Jin, SeongKu Kang, Shaowen Wang, Jiawei Han
+
+- **MultiCube-RAG for Multi-hop Question Answering**\\
+Jimeng Shi, Wei Hu, Runchu Tian, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Yunfan Kang, Dingqi Ye, Sizhe Zhou, Shaowen Wang, Jiawei Han
+
 - **Personalized Federated Recommendation With Knowledge Guidance**\\
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
 
