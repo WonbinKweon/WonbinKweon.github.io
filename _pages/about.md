@@ -107,7 +107,7 @@ SeongKu Kang, Jianxun Lian, Dongha Lee, <span style="color:black"><u>Wonbin Kweo
 <i>WWW</i>, 2024
 
 - **Continual Collaborative Distillation for Recommender System**\\
-**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu (**\***equal contribution)\\
+**\***Gyuseok Lee, **\***SeongKu Kang, <span style="color:black"><u>Wonbin Kweon</u></span>, Hwanjo Yu\\
 <i>KDD</i>, 2024
 
 - **Rectifying Demonstration Shortcut in In-Context Learning**\\
