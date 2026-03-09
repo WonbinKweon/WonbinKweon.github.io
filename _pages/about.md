@@ -172,6 +172,8 @@ Academic Service
 - ACL (Annual Meeting of the Association for Computational Linguistics), 2025
 - Expert Systems with Applications (SCIE, Q1), 2025
 - Journal of Computational Chemistry (SCIE, Q1), 2025
+- Journal of the American Medical Informatics Association (SCIE, Q1), 2026
+- Engineering Applications of Artificial Intelligence (SCIE, Q1), 2026
 
 Honors & Awards
 -----
