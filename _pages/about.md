@@ -177,7 +177,7 @@ Academic Service
 
 Honors & Awards
 -----
-- POSTECH PIURI Postdoctoral Fellowship (100,000 USD), 2025 – 2027
+- POSTECH PIURI Postdoctoral Fellowship (100,000 USD), 2025
 - Fourth Prize, The 3rd POSTECH Research Award, 2023
 - AAAI Student Scholarship, 2022
 - Third Prize, Kakao Music Playlist Recommendation Competition, 2020
