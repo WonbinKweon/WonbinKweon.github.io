@@ -45,6 +45,9 @@ Runchu Tian, Xueqiang Xu, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 - **MultiCube-RAG for Multi-hop Question Answering**\\
 Jimeng Shi, Wei Hu, Runchu Tian, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Yunfan Kang, Dingqi Ye, Sizhe Zhou, Shaowen Wang, Jiawei Han
 
+- **Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization**\\
+Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, SeongKu Kang, Jiawei Han, Dong Wang
+
 - **Personalized Federated Recommendation With Knowledge Guidance**\\
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
 
