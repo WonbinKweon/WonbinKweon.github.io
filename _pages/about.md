@@ -63,6 +63,10 @@ Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, Yaokun Liu, Yifan Liu, Susik Yoon, Dong Wang, SeongKu Kang\\
 <i>SIGIR</i>, 2026
 
+- **Structure Shapes the Future of DataxLLM Systems: Retrieval, Structuring, and Reasoning**\\
+Pengcheng Jiang, Jiashuo Sun, <span style="color:black"><u>Wonbin Kweon</u></span>, Jiawei Han\\
+<i>KDD Tutorial</i>, 2026
+
 - **Harmonic Dataset Distillation for Time Series Forecasting**\\
 Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Suyeon Kim, Gyuseok Lee, Hwanjo Yu\\
 <i>AAAI</i>, 2026
