@@ -61,7 +61,7 @@ Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, 
 <i>SIGIR</i>, 2026
 
 - **Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering**\\
-Jash Rajesh Parekh, <span style="color:black"><u>Wonbin Kweon</u></span>, Joey Chan, Rezarta Islamaj, Robert Leaman, Pengcheng Jiang, Chih-Hsuan Wei, ZhiZheng Wang, Zhiyong Lu, Jiawei Han
+Jash Parekh, <span style="color:black"><u>Wonbin Kweon</u></span>, Joey Chan, Rezarta Islamaj, Robert Leaman, Pengcheng Jiang, Chih-Hsuan Wei, ZhiZheng Wang, Zhiyong Lu, Jiawei Han\\
 <i>KDD</i>, 2026
 
 - **Structure Shapes the Future of DataxLLM Systems: Retrieval, Structuring, and Reasoning**\\
