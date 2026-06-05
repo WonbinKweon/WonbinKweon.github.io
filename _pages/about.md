@@ -56,10 +56,6 @@ Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 <span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu\\
 <i>WWW</i>, 2026
 
-- **SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation**\\
-Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, Yaokun Liu, Yifan Liu, Susik Yoon, Dong Wang, SeongKu Kang\\
-<i>SIGIR</i>, 2026
-
 - **Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering**\\
 Jash Parekh, <span style="color:black"><u>Wonbin Kweon</u></span>, Joey Chan, Rezarta Islamaj, Robert Leaman, Pengcheng Jiang, Chih-Hsuan Wei, ZhiZheng Wang, Zhiyong Lu, Jiawei Han\\
 <i>KDD</i>, 2026
@@ -67,6 +63,10 @@ Jash Parekh, <span style="color:black"><u>Wonbin Kweon</u></span>, Joey Chan, Re
 - **Structure Shapes the Future of DataxLLM Systems: Retrieval, Structuring, and Reasoning**\\
 Pengcheng Jiang, Jiashuo Sun, <span style="color:black"><u>Wonbin Kweon</u></span>, Jiawei Han\\
 <i>KDD Tutorial</i>, 2026
+
+- **SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation**\\
+Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, Yaokun Liu, Yifan Liu, Susik Yoon, Dong Wang, SeongKu Kang\\
+<i>SIGIR</i>, 2026
 
 - **Harmonic Dataset Distillation for Time Series Forecasting**\\
 Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Suyeon Kim, Gyuseok Lee, Hwanjo Yu\\
