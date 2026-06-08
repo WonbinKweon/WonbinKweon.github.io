@@ -36,6 +36,9 @@ Publications
 -----
 <div style="font-size:20px;">Preprints</div>
 
+- **MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry**\\
+Joey Chan, <span style="color:black"><u>Wonbin Kweon</u></span>, Ashley Shin, Niharika Bhattacharjee, Pengcheng Jiang, Yue Guo, Jiawei Han
+
 - **TaxoCite: Hierarchical Topic-Enriched Citation Intent Classification for Scientific Literature**\\
 Runchu Tian, Xueqiang Xu, <span style="color:black"><u>Wonbin Kweon</u></span>, Jimeng Shi, Wei Hu, Yunfan Kang, Xiaolin Liu, Xuanyu Meng, Junxia Cui, Lantao Mei, Bowen Jin, SeongKu Kang, Shaowen Wang, Jiawei Han
 
