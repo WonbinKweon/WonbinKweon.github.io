@@ -51,9 +51,6 @@ Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, 
 - **Personalized Federated Recommendation With Knowledge Guidance**\\
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
 
-- **Improving Scientific Document Retrieval with Academic Concept Index**\\
-Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Bowen Jin, Yu Zhang, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, Seongku Kang
-
 <div style="font-size:20px;">2026</div>
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu\\
@@ -74,6 +71,10 @@ Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, 
 - **Harmonic Dataset Distillation for Time Series Forecasting**\\
 Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Suyeon Kim, Gyuseok Lee, Hwanjo Yu\\
 <i>AAAI</i>, 2026
+
+- **Improving Scientific Document Retrieval with Academic Concept Index**\\
+Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Bowen Jin, Yu Zhang, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, Seongku Kang\\
+<i>ACM Transactions on Intelligent Systems and Technology (TIST)</i>, 2026
 
 <div style="font-size:20px;">2025</div>
 - **Topic Coverage-based Demonstration Retrieval for In-Context Learning**\\
