@@ -73,7 +73,8 @@ Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span
 <i>AAAI</i>, 2026
 
 - **Improving Scientific Document Retrieval with Academic Concept Index**\\
-Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Bowen Jin, Yu Zhang, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, Seongku Kang\\
+Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Bowen Jin, Yu Zhang, Susik Yoon, Dongha Lee, Hwanjo Yu,\\
+Jiawei Han, Seongku Kang\\
 <i>ACM Transactions on Intelligent Systems and Technology (TIST)</i>, 2026
 
 <div style="font-size:20px;">2025</div>
