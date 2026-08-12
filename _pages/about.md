@@ -54,11 +54,11 @@ Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, 
 <i>WWW</i>, 2026
 
 - **From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation**\\
-Junyoung Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Jaehyung Lim, Dongha Kim and Hwanjo Yu\\
+Junyoung Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Jaehyung Lim, Dongha Kim, Hwanjo Yu\\
 <i>CIKM</i>, 2026
 
 - **SCoRD: Semantic-Assisted Continual Retriever-Reranker Distillation for LLM-Based Recommendation**\\
-Seunghyun Baek, Gyuseok Lee, Seunghan Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Dong Wang and Seongku Kang\\
+Seunghyun Baek, Gyuseok Lee, Seunghan Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Dong Wang, Seongku Kang\\
 <i>CIKM</i>, 2026
 
 - **Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering**\\
