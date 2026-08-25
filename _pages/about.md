@@ -45,13 +45,14 @@ Runchu Tian, Xueqiang Xu, <span style="color:black"><u>Wonbin Kweon</u></span>, 
 - **MultiCube-RAG for Multi-hop Question Answering**\\
 Jimeng Shi, Wei Hu, Runchu Tian, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Yunfan Kang, Dingqi Ye, Sizhe Zhou, Shaowen Wang, Jiawei Han
 
-- **Personalized Federated Recommendation With Knowledge Guidance**\\
-Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
-
 <div style="font-size:20px;">2026</div>
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
 <span style="color:black"><u>Wonbin Kweon</u></span>, Runchu Tian, SeongKu Kang, Pengcheng Jiang, Zhiyong Lu, Jiawei Han, Hwanjo Yu\\
 <i>WWW</i>, 2026
+
+- **ObSchema: From Local Observations to Global Entity Attribute Schemas in Scientific Literature**\\
+Xueqiang Xu, <span style="color:black"><u>Wonbin Kweon</u></span>, Jimeng Shi, Runchu Tian, Yunfan Kang, Wei Hu, Shaowen Wang, Jiawei Han \\
+<i>EMNLP</i>, 2026
 
 - **From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation**\\
 Junyoung Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Jaehyung Lim, Dongha Kim, Hwanjo Yu\\
@@ -80,6 +81,10 @@ Gyuseok Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Zhenrui Yue, 
 - **Harmonic Dataset Distillation for Time Series Forecasting**\\
 Seungha Hong, Sanghwan Jang, <span style="color:black"><u>Wonbin Kweon</u></span>, Suyeon Kim, Gyuseok Lee, Hwanjo Yu\\
 <i>AAAI</i>, 2026
+
+- **Personalized Federated Recommendation via Long-Horizon Local Optimization and Regularized Knowledge Guidance**\\
+Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu\\
+<i>Journal of Intelligent Information Systems</i>, 2026
 
 - **Improving Scientific Document Retrieval with Academic Concept Index**\\
 Jeyun Lee, Junhyoung Lee, <span style="color:black"><u>Wonbin Kweon</u></span>, Bowen Jin, Yu Zhang, Susik Yoon, Dongha Lee, Hwanjo Yu,\\
