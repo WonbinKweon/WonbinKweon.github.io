@@ -23,7 +23,7 @@ My research interests lie in Data Mining, with a focus on Information Retrieval,
 Experience
 ------
 - **SungKyunKwan University (SKKU)**, South Korea\\
-Assistant Professor, Dept. of Computer Science and Engineering, 2026.09 - Present\\
+Assistant Professor, Dept. of Computer Science and Engineering, 2026.09 - Present
 - **University of Illinois Urbana-Champaign (UIUC)**, United States\\
 Postdoctoral Researcher, Siebel School of Computing and Data Science, 2025.04 - 2026.08 \\
 Advisor: <a href="http://dm1.cs.uiuc.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a> 
