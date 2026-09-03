@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in the Department of Computer Science and Engineering at SungKyunKwan University (SKKU).
+I am an assistant professor in the Department of Computer Science and Engineering at Sungkyunkwan University (SKKU), where i am co-leading <a href="https://dial.skku.edu/" target="_blank" style="text-decoration:none;">Data Intelligence And Learning (DIAL) Lab</a> with Prof. Jongwuk Lee.
 My research interests lie in:
 - Information Retrieval (Recommender Systems, Search)
 - Agentic AI (Search Agents)
 - Trustworthy AI (Model Calibration, Uncertainty Quantification)
 - Natural Language Processing (Text Mining, Information Extraction)
 
-<span style="color:blue">I am actively seeking for passionate graduate (Ph.D., MS) students, and undergraduate interns. If you are interested, please send me an email with your interests, CV, and transcript.</span>
+<span style="color:blue">**I am actively seeking for passionate graduate (Ph.D., MS) students, and undergraduate interns. If you are interested, please send me an email with your interests, CV, and transcript.**</span>
 
 <!-- I am a postdoctoral researcher at University of Illinois Urbana-Champaign (UIUC), advised by <a href="http://dm1.cs.uiuc.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a>. \\
 I received my Ph.D. from POSTECH, advised by <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>, and subsequently worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
