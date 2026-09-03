@@ -10,7 +10,7 @@ redirect_from:
 I am an assistant professor in the Department of Computer Science and Engineering at Sungkyunkwan University (SKKU), and a faculty member of <a href="https://dial.skku.edu/" target="_blank" style="text-decoration:none;">Data Intelligence And Learning (DIAL) Lab</a>.
 My research interests lie in:
 - Information Retrieval (Recommender Systems, Search)
-- Agentic AI (Search Agents)
+- Agentic AI (Search Agents, Tool/Skill-using Agents)
 - Trustworthy AI (Model Calibration, Uncertainty Quantification)
 - Natural Language Processing (Text Mining, Information Extraction)
 
