@@ -46,12 +46,12 @@ Early Graduation, 2013.03 - 2015.02
 Academic Service
 -----
 **[Program Committee / Reviewer]**
-- KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining), 2023 - 2025
-- AAAI (Annual AAAI Conference on Artificial Intelligence), 2023 - 2026
+- KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining), 2023 - 2027
+- AAAI (Annual AAAI Conference on Artificial Intelligence), 2023 - 2027
 - WWW (ACM The Web Conference), 2024 - 2026
 - ICML (International Conference on Machine Learning), 2024 - 2026
 - ICLR (International Conference on Learning Representations), 2024 - 2026
-- ACL (Annual Meeting of the Association for Computational Linguistics), 2025
+- ARR (Annual Meeting of the Association for Computational Linguistics, Rolling Review), 2025 - 2026
 - Expert Systems with Applications (SCIE, Q1), 2025
 - Journal of Computational Chemistry (SCIE, Q1), 2025
 - Journal of the American Medical Informatics Association (SCIE, Q1), 2026
@@ -74,6 +74,8 @@ Talks & Presentations
 <!-- - PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval\\
 &#45; MMLI, UIUC, 2025.10
 &#45; CS598JH, UIUC, 2025.10 -->
+- Structure Shapes the Future of DataxLLM Systems: Retrieval, Structuring, and Reasoning\\
+&#45; Korea University (Seoul, South Korea), IDEA × DAIS Joint Workshop, 2026.8
 
 - Information Retrieval in the Era of Large Language Models\\
 &#45; UNIST (Virtual), AIGS seminar, 2025.10
