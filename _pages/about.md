@@ -22,7 +22,7 @@ My research interests lie in Data Mining, with a focus on Information Retrieval,
 
 Experience
 ------
-- **SungKyunKwan University (SKKU)**, South Korea\\
+- **Sungkyunkwan University (SKKU)**, South Korea\\
 Assistant Professor, Dept. of Computer Science and Engineering, 2026.09 - Present
 - **University of Illinois Urbana-Champaign (UIUC)**, United States\\
 Postdoctoral Researcher, Siebel School of Computing and Data Science, 2025.04 - 2026.08 \\
