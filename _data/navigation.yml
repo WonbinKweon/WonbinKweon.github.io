@@ -1,7 +1,7 @@
 main:
-  - title: "DIAL Lab"
-    url: "https://dial.skku.edu/"
-    # url: /cv/
+  # - title: "DIAL Lab"
+  #   url: "https://dial.skku.edu/"
+  #   # url: /cv/
 
   - title: "Publications"
     url: /publications/
