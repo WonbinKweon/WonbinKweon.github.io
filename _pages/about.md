@@ -104,9 +104,4 @@ Patents
 
 Teaching
 -----
-- Predictive Analytics Modelling (DS30), TA, Hyundai Motors, 2023
-- Artificial Intelligence (DS20), TA, Hyundai Motors, 2022
-- Artificial Intelligence, TA, SK Hynix, 2020
-- Artificial Intelligence, TA, SK Innovation, 2020
-- Introduction to Data Analysis (CSED226), TA, POSTECH, 2020
-- Trends on Industrial AI (CSED703H), TA, POSTECH, 2019
+- Introduction to Recommender Systems (ESW4024_41), 2026 Fall
