@@ -65,11 +65,11 @@ Jiawei Han, Seongku Kang\\
 <i>WWW</i>, 2025
 
 - **Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences**\\
-**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
+**\***Gwangseok Han, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, Minsoo Kim, Hwanjo Yu\\
 <i>KDD</i>, 2025
 
 - **Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment**\\
-**\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu (**\***equal contribution)\\
+**\***Nanu Kim, **\***<span style="color:black"><u>Wonbin Kweon</u></span>, **\***Minsoo Kim, Hwanjo Yu\\
 <i>BMVC</i>, 2025
 
 - **Federated Continual Recommendation**\\
