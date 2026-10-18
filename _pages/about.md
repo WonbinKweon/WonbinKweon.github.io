@@ -46,13 +46,16 @@ Early Graduation, 2013.03 - 2015.02
 
 Academic Service
 -----
+**[Area Chair]**
+- WWW (ACM The Web Conference), 2027
+
 **[Program Committee / Reviewer]**
 - KDD (ACM SIGKDD Conference on Knowledge Discovery & Data Mining), 2023 - 2027
 - AAAI (Annual AAAI Conference on Artificial Intelligence), 2023 - 2027
 - WWW (ACM The Web Conference), 2024 - 2026
 - ICML (International Conference on Machine Learning), 2024 - 2026
-- ICLR (International Conference on Learning Representations), 2024 - 2026
-- ARR (Annual Meeting of the Association for Computational Linguistics, Rolling Review), 2025 - 2026
+- ICLR (International Conference on Learning Representations), 2024 - 2027
+- ARR (Annual Meeting of the Association for Computational Linguistics, Rolling Review), 2025 - 2027
 - Expert Systems with Applications (SCIE, Q1), 2025
 - Journal of Computational Chemistry (SCIE, Q1), 2025
 - Journal of the American Medical Informatics Association (SCIE, Q1), 2026
