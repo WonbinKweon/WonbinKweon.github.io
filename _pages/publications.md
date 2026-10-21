@@ -10,11 +10,18 @@ author_profile: true
 - **MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry**\\
 Joey Chan, <span style="color:black"><u>Wonbin Kweon</u></span>, Ashley Shin, Niharika Bhattacharjee, Pengcheng Jiang, Yue Guo, Jiawei Han
 
-- **TaxoCite: Hierarchical Topic-Enriched Citation Intent Classification for Scientific Literature**\\
-Runchu Tian, Xueqiang Xu, <span style="color:black"><u>Wonbin Kweon</u></span>, Jimeng Shi, Wei Hu, Yunfan Kang, Xiaolin Liu, Xuanyu Meng, Junxia Cui, Lantao Mei, Bowen Jin, SeongKu Kang, Shaowen Wang, Jiawei Han
-
 - **MultiCube-RAG for Multi-hop Question Answering**\\
 Jimeng Shi, Wei Hu, Runchu Tian, Bowen Jin, <span style="color:black"><u>Wonbin Kweon</u></span>, SeongKu Kang, Yunfan Kang, Dingqi Ye, Sizhe Zhou, Shaowen Wang, Jiawei Han
+
+- **How Strongly Should Task State Influence an LLM Agent?**\\
+Chenyu Zhang, <span style="color:black"><u>Wonbin Kweon</u></span>, Jiawei Han
+
+- **Personalized and Multi-View Representation for Federated Cold-Start Recommendation**\\
+Jaehyung Lim, <u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
+
+- **VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation**\\
+Junyoung Kim, Woojoo Kim, <u>Wonbin Kweon</u></span>, Jaehyung Lim, Dongha Kim, Hwanjo Yu
+
 
 <div style="font-size:20px;">2026</div>
 - **PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval**\\
