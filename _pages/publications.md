@@ -20,7 +20,7 @@ Chenyu Zhang, <span style="color:black"><u>Wonbin Kweon</u></span>, Jiawei Han
 Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
 
 - **VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation**\\
-Junyoung Kim, Woojoo Kim, <u>Wonbin Kweon</u></span>, Jaehyung Lim, Dongha Kim, Hwanjo Yu
+Junyoung Kim, Woojoo Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Jaehyung Lim, Dongha Kim, Hwanjo Yu
 
 
 <div style="font-size:20px;">2026</div>
