@@ -16,11 +16,11 @@ Jimeng Shi, Wei Hu, Runchu Tian, Bowen Jin, <span style="color:black"><u>Wonbin 
 - **How Strongly Should Task State Influence an LLM Agent?**\\
 Chenyu Zhang, <span style="color:black"><u>Wonbin Kweon</u></span>, Jiawei Han
 
-- **Personalized and Multi-View Representation for Federated Cold-Start Recommendation**\\
-Jaehyung Lim, <span style="color:black"><u>Wonbin Kweon</u></span>, Woojoo Kim, Junyoung Kim, Dongha Kim, Hwanjo Yu
+- **Federated Recommender Agents**\\
+Jaehyung Lim, Woojoo Kim, Junyoung Kim, Dongha Kim, <span style="color:black"><u>Wonbin Kweon†</u></span>, Hwanjo Yu
 
-- **VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation**\\
-Junyoung Kim, Woojoo Kim, <span style="color:black"><u>Wonbin Kweon</u></span>, Jaehyung Lim, Dongha Kim, Hwanjo Yu
+- **VLM2Rec: Resolving Modality Collapse in Vision-Language Models for Sequential Recommendation**\\
+Junyoung Kim, Woojoo Kim, Jaehyung Lim, Dongha Kim, <span style="color:black"><u>Wonbin Kweon†</u></span>, Hwanjo Yu
 
 
 <div style="font-size:20px;">2026</div>
