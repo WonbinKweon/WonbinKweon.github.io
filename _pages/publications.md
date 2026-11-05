@@ -17,10 +17,10 @@ Jimeng Shi, Wei Hu, Runchu Tian, Bowen Jin, <span style="color:black"><u>Wonbin 
 Chenyu Zhang, <span style="color:black"><u>Wonbin Kweon</u></span>, Jiawei Han
 
 - **Federated Recommender Agents**\\
-Jaehyung Lim, Woojoo Kim, Junyoung Kim, Dongha Kim, <span style="color:black"><u>Wonbin Kweon†</u></span>, Hwanjo Yu
+Jaehyung Lim, Woojoo Kim, Junyoung Kim, Dongha Kim, <span style="color:black"><u>Wonbin Kweon†</u></span>, Hwanjo Yu†
 
 - **VLM2Rec: Resolving Modality Collapse in Vision-Language Models for Sequential Recommendation**\\
-Junyoung Kim, Woojoo Kim, Jaehyung Lim, Dongha Kim, <span style="color:black"><u>Wonbin Kweon†</u></span>, Hwanjo Yu
+Junyoung Kim, Woojoo Kim, Jaehyung Lim, Dongha Kim, <span style="color:black"><u>Wonbin Kweon†</u></span>, Hwanjo Yu†
 
 
 <div style="font-size:20px;">2026</div>
