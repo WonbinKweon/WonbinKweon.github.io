@@ -12,7 +12,7 @@ My research interests lie in:\\
 \- Information Retrieval (Recommender Systems, Search)\\
 \- Agentic AI (Search Agents, Tool/Skill-using Agents)\\
 \- Trustworthy AI (Model Calibration, Uncertainty Quantification)\\
-\- Natural Language Processing (Text Mining, Information Extraction)\\
+\- Natural Language Processing (Text Mining, Information Extraction)
 
 <span style="color:blue">**I am actively seeking for passionate graduate (Ph.D., MS) students, and undergraduate interns. If you are interested, please send me an email with your interests, CV, and transcript.**</span>\\
 \- Currently, I am accepting applications from Korean students only.
