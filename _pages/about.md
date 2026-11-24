@@ -9,13 +9,13 @@ redirect_from:
 ---
 I am an assistant professor in the Department of Computer Science and Engineering at Sungkyunkwan University (SKKU), and a faculty member of <a href="https://dial.skku.edu/" target="_blank" style="text-decoration:none;">Data Intelligence And Learning (DIAL) Lab</a>.
 My research interests lie in:\\
-\- Information Retrieval (Recommender Systems, Search)\\
-\- Agentic AI (Search Agents, Tool/Skill-using Agents)\\
-\- Trustworthy AI (Model Calibration, Uncertainty Quantification)\\
-\- Natural Language Processing (Text Mining, Information Extraction)
+&nbsp;&nbsp;- Information Retrieval (Recommender Systems, Search)\\
+&nbsp;&nbsp;- Agentic AI (Search Agents, Tool/Skill-using Agents)\\
+&nbsp;&nbsp;- Trustworthy AI (Model Calibration, Uncertainty Quantification)\\
+&nbsp;&nbsp;- Natural Language Processing (Text Mining, Information Extraction)
 
 <span style="color:blue">**I am actively seeking for passionate graduate (Ph.D., MS) students, and undergraduate interns. If you are interested, please send me an email with your interests, CV, and transcript.**</span>\\
-\- Currently, I am accepting applications from Korean students only.
+&nbsp;&nbsp;- Currently, I am accepting applications from Korean students only.
 
 <!-- I am a postdoctoral researcher at University of Illinois Urbana-Champaign (UIUC), advised by <a href="http://dm1.cs.uiuc.edu/" target="_blank" style="text-decoration:none;">Prof. Jiawei Han</a>. \\
 I received my Ph.D. from POSTECH, advised by <a href="https://sites.google.com/view/postechdi/member/faculty?authuser=0" target="_blank" style="text-decoration:none;">Prof. Hwanjo Yu</a>, and subsequently worked as a postdoctoral researcher at POSTECH Institute of Artificial Intelligence.\\
